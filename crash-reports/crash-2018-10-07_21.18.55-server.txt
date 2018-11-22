@@ -1,0 +1,37 @@
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 7/10/18 21:18
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at xd.<init>(SourceFile:15)
+	at bnp.b(SourceFile:202)
+	at bnu.a(SourceFile:654)
+	at bnu.a(SourceFile:394)
+	at bnu.a(SourceFile:228)
+	at tc.b(SourceFile:199)
+	at tc.a(SourceFile:216)
+	at td.a(SourceFile:728)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:508)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:699)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.1
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_181, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode, sharing), Oracle Corporation
+	Memory: 46936 bytes (0 MB) / 259522560 bytes (247 MB) up to 259522560 bytes (247 MB)
+	JVM Flags: 0 total; 
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 5; [tf['MAURIXD'/2437, l='world', x=-193.34, y=65.00, z=-242.70], tf['Alfajorcito'/15824, l='world', x=1863.03, y=60.34, z=853.06]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

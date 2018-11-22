@@ -1,0 +1,182 @@
+[14:48:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:48:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:48:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:48:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:48:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:48:36] [main/INFO]: Loaded 0 recipes
+[14:48:36] [main/INFO]: Loaded 0 advancements
+[14:48:36] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[14:48:36] [Server thread/INFO]: Loading properties
+[14:48:36] [Server thread/INFO]: Default game type: SURVIVAL
+[14:48:36] [Server thread/INFO]: Generating keypair
+[14:48:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:48:36] [Server thread/INFO]: Using default channel type
+[14:48:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:48:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:48:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:48:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:48:37] [Server thread/INFO]: Preparing level "world"
+[14:48:37] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:48:37] [Server thread/INFO]: Loaded 524 recipes
+[14:48:38] [Server thread/INFO]: Loaded 571 advancements
+[14:48:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 4%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 8%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 12%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 16%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 20%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 24%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 28%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 32%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 36%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 40%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 44%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 48%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 52%
+[14:48:38] [Server thread/INFO]: Preparing spawn area: 56%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 60%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 64%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 68%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 72%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 76%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 80%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 84%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 88%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 92%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 96%
+[14:48:39] [Server thread/INFO]: Preparing spawn area: 100%
+[14:48:39] [Server thread/INFO]: Time elapsed: 1288 ms
+[14:48:39] [Server thread/INFO]: Done (2.318s)! For help, type "help"
+[14:48:39] [Server thread/INFO]: Armando[/2620:9b:0:0:0:0:1934:f946:49413] logged in with entity id 808 at (112.05721733699998, 65.0, -163.30548461702156)
+[14:48:39] [Server thread/INFO]: Armando joined the game
+[14:48:55] [Server thread/INFO]: <Armando> un poquito rapido no?
+[14:49:31] [Server thread/INFO]: [Server] un toque
+[14:49:37] [Server thread/INFO]: [Server] ni 1 segundo paso
+[14:49:40] [Server thread/INFO]: [Server] y ya entraste
+[14:49:50] [Server thread/INFO]: [Server] literal q ni 1
+[14:50:43] [Server thread/WARN]: Armando moved too quickly! -7.577884348669727,-1.0013359791121417,6.651122007624366
+[14:55:24] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:55684] logged in with entity id 1425 at (161.44329379280475, 103.0, -170.27725888351583)
+[14:55:24] [Server thread/INFO]: MAURIJAJAJA joined the game
+[15:02:32] [Server thread/INFO]: <Armando> we rico lio la mina de herobrine :v
+[15:04:36] [Server thread/INFO]: <Armando> ya se me hacia
+[15:04:40] [Server thread/INFO]: <Armando> spawn de arañas venenosas
+[15:04:46] [Server thread/INFO]: <MAURIJAJAJA> rico
+[15:04:53] [Server thread/INFO]: <Armando> concha
+[15:04:56] [Server thread/INFO]: <Armando> son mas chiquitas
+[15:05:25] [Server thread/INFO]: <Armando> y parece que hay uno de zombies
+[15:05:28] [Server thread/INFO]: <Armando> pero no encuetro
+[15:05:31] [Server thread/INFO]: <Armando> escucho demaciados
+[15:06:50] [Server thread/INFO]: <Armando> WEEEE
+[15:06:54] [Server thread/INFO]: <Armando> no puede ser tan grande
+[15:07:00] [Server thread/INFO]: <Armando> me voy a terminar perdiendo
+[15:08:55] [Server thread/INFO]: [Server] q paja tener el sv abierto
+[15:09:02] [Server thread/INFO]: <Armando> te dije que me pases
+[15:09:03] [Server thread/INFO]: <Armando> xd
+[15:09:03] [Server thread/INFO]: [Server] lo unico q puedo jugar es maincra
+[15:09:21] [Server thread/INFO]: <Armando> pasame y hosteo io
+[15:09:23] [Server thread/INFO]: [Server] se lo tendria q pasar a la otra pc
+[15:09:28] [Server thread/INFO]: <Armando> tambien
+[15:09:35] [Server thread/INFO]: [Server] pero voy a perder un espacio en la red si quiero entrar yo
+[15:09:36] [Server thread/INFO]: <Armando> entonces estas tranqui
+[15:10:06] [Server thread/INFO]: <Armando> valio madres el spawn de arañas
+[15:10:12] [Server thread/INFO]: vijote[/25.65.117.95:59338] logged in with entity id 5719 at (139.8904862297524, 69.0, -159.50171211732516)
+[15:10:12] [Server thread/INFO]: vijote joined the game
+[15:10:45] [Server thread/INFO]: <vijote> ah cierto q puedo hacer el sistema tambien
+[15:10:46] [Server thread/INFO]: vijote lost connection: Disconnected
+[15:10:46] [Server thread/INFO]: vijote left the game
+[15:11:22] [Server thread/INFO]: <Armando> wiiii
+[15:11:25] [Server thread/INFO]: <Armando> la cantidad de arañas
+[15:11:31] [Server thread/INFO]: [Server] riquisimo trueno
+[15:11:34] [Server thread/INFO]: <MAURIJAJAJA> encima venenosas
+[15:11:48] [Server thread/INFO]: [Server] me sacudio todo
+[15:11:53] [Server thread/INFO]: <MAURIJAJAJA> si
+[15:12:00] [Server thread/INFO]: <Armando> no son venenosas
+[15:12:01] [Server thread/INFO]: <MAURIJAJAJA> sonó muy fuerte
+[15:12:02] [Server thread/INFO]: <Armando> que raro
+[15:12:08] [Server thread/INFO]: [Server] oye no
+[15:12:11] [Server thread/INFO]: [Server] ahi viene otro
+[15:12:35] [Server thread/INFO]: [Server] estan juertes
+[15:12:43] [Server thread/INFO]: [Server] y uno tras otro
+[15:12:57] [Server thread/INFO]: <Armando> que raro
+[15:12:59] [Server thread/INFO]: <Armando> las arañas
+[15:13:02] [Server thread/INFO]: <Armando> no son venenosas
+[15:13:05] [Server thread/INFO]: <Armando> ni dañan el escudo
+[15:13:07] [Server thread/INFO]: <Armando> pero son chiquitas
+[15:13:18] [Server thread/INFO]: <Armando> obvio si hacen daño
+[15:15:39] [Server thread/INFO]: <Armando> el segundo spawn de araña
+[15:15:49] [Server thread/INFO]: <Armando> a todo esto
+[15:15:51] [Server thread/INFO]: <Armando> no encontre un cofre
+[15:16:06] [Server thread/INFO]: [Server] wid
+[15:16:58] [Server thread/INFO]: <Armando> pta
+[15:17:01] [Server thread/INFO]: <Armando> bruja
+[15:17:50] [Server thread/INFO]: Armando has made the advancement [Not Today, Thank You]
+[15:18:21] [Server thread/INFO]: <Armando> wiiiiii
+[15:18:26] [Server thread/INFO]: <Armando> 1 stack de hilo
+[15:18:27] [Server thread/INFO]: <Armando> xddd
+[15:21:43] [Server thread/INFO]: <Armando> AAAA
+[15:21:46] [Server thread/INFO]: <Armando> un cofre :3
+[15:21:56] [Server thread/INFO]: <Armando> LOL
+[15:22:03] [Server thread/INFO]: <Armando> no sabia que ahora tambien pones vias
+[15:22:08] [Server thread/INFO]: <Armando> vias detectoras
+[15:22:13] [Server thread/INFO]: <Armando> en el cofre
+[15:22:13] [Server thread/INFO]: <MAURIJAJAJA> aah
+[15:22:16] [Server thread/INFO]: <Armando> nada interesante
+[15:22:29] [Server thread/INFO]: <MAURIJAJAJA> podes hacer cosas ricas con eso capaz
+[15:22:48] [Server thread/INFO]: <Armando> supongo
+[15:22:54] [Server thread/INFO]: <Armando> osea si
+[15:22:56] [Server thread/INFO]: <Armando> pero nunca usamos
+[15:25:49] [Server thread/INFO]: <Armando> weeeeeeee
+[15:25:54] [Server thread/INFO]: <Armando> QUE QUILOMBO
+[15:26:00] [Server thread/INFO]: <Armando> EMPECE EN UN LUGAR
+[15:26:17] [Server thread/INFO]: <Armando> despues de un rato recorriendo me explotaron unos creepers y me caia en el lugar de donde empece
+[15:33:59] [Server thread/INFO]: <Armando> otro spawn de araña
+[15:34:00] [Server thread/INFO]: <Armando> we
+[15:34:02] [Server thread/INFO]: <Armando> el tercero
+[15:35:36] [Server thread/INFO]: MAURIJAJAJA fell from a high place
+[15:35:40] [Server thread/INFO]: <Armando> lol
+[15:35:45] [Server thread/WARN]: MAURIJAJAJA moved too quickly! 0.8181844948862533,-10.596058325307382,-1.850804681672912
+[15:35:50] [Server thread/INFO]: <MAURIJAJAJA> xd
+[15:36:13] [Server thread/INFO]: MAURIJAJAJA lost connection: Timed out
+[15:36:13] [Server thread/INFO]: MAURIJAJAJA left the game
+[15:36:40] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:55733] logged in with entity id 11952 at (148.46732180374528, 69.0, -178.75801552609852)
+[15:36:40] [Server thread/INFO]: MAURIJAJAJA joined the game
+[15:37:25] [Server thread/INFO]: MAURIJAJAJA lost connection: Timed out
+[15:37:25] [Server thread/INFO]: MAURIJAJAJA left the game
+[15:39:07] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:55735] logged in with entity id 12509 at (150.0858837107197, 82.53960313407629, -184.7694070434025)
+[15:39:07] [Server thread/INFO]: MAURIJAJAJA joined the game
+[15:39:39] [Server thread/INFO]: Armando burned to death
+[15:39:45] [Server thread/INFO]: <MAURIJAJAJA> LLLOOOOLLLL
+[15:39:47] [Server thread/INFO]: <Armando> CONcha
+[15:39:50] [Server thread/INFO]: <Armando> bueno por suerte
+[15:39:55] [Server thread/INFO]: <Armando> todos mis items estan bien
+[15:40:02] [Server thread/INFO]: <Armando> tengo que ir nomas
+[15:40:10] [Server thread/INFO]: <MAURIJAJAJA> que paja
+[15:40:18] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
+[15:40:18] [Server thread/INFO]: MAURIJAJAJA left the game
+[15:59:35] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:55765] logged in with entity id 13832 at (137.27993034115727, 104.0, -182.99284805850718)
+[15:59:35] [Server thread/INFO]: MAURIJAJAJA joined the game
+[16:02:15] [Server thread/INFO]: <Armando> ola
+[16:02:16] [Server thread/INFO]: <Armando> volvi
+[16:02:19] [Server thread/INFO]: <Armando> no les dije
+[16:02:19] [Server thread/INFO]: <Armando> pero
+[16:02:21] [Server thread/INFO]: <Armando> estaba cagando
+[16:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
+[16:07:58] [Server thread/INFO]: [Server] lol
+[16:14:22] [Server thread/INFO]: <Armando> lol
+[16:14:23] [Server thread/INFO]: <Armando> encontre
+[16:14:28] [Server thread/INFO]: <Armando> una nueva mina de herobrine :v
+[16:14:40] [Server thread/INFO]: <Armando> asi no se puede
+[16:16:49] [Server thread/INFO]: <Armando> WIIIII
+[16:16:52] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
+[16:16:52] [Server thread/INFO]: MAURIJAJAJA left the game
+[16:36:58] [Server thread/INFO]: Armando lost connection: Disconnected
+[16:36:58] [Server thread/INFO]: Armando left the game
+[16:37:01] [Server thread/INFO]: Armando[/2620:9b:0:0:0:0:1934:f946:49474] logged in with entity id 20404 at (124.30000001192093, 12.0, -238.56559535177723)
+[16:37:01] [Server thread/INFO]: Armando joined the game
+[16:37:03] [Server thread/INFO]: <Armando> olo
+[16:38:04] [Server thread/INFO]: Armando has made the advancement [Diamonds!]
+[16:39:27] [Server thread/INFO]: Armando has made the advancement [Ice Bucket Challenge]
+[17:09:58] [Server thread/INFO]: Rmro[/25.8.202.175:56625] logged in with entity id 22610 at (146.4201367512681, 69.0, -166.88840614384)
+[17:09:58] [Server thread/INFO]: Rmro joined the game
+[17:10:16] [Server thread/INFO]: <Rmro> alto lag
+[17:10:56] [Server thread/WARN]: Rmro moved too quickly! -3.9930598223072025,-9.282331744875847,1.7220233993117517
