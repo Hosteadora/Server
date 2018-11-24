@@ -490,13 +490,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-18 13:28:15 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-18 13:28:15 -0300"
     },
@@ -906,13 +906,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-22 16:38:04 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-22 16:38:04 -0300"
     },
@@ -1703,6 +1703,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-11-17 14:08:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-11-24 00:06:28 -0300"
     },
     "done": true
   },
