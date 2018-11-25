@@ -1,217 +1,406 @@
-[11:41:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:41:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:41:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:41:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:41:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:41:59] [main/INFO]: Loaded 0 recipes
-[11:41:59] [main/INFO]: Loaded 0 advancements
-[11:41:59] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[11:41:59] [Server thread/INFO]: Loading properties
-[11:41:59] [Server thread/INFO]: Default game type: SURVIVAL
-[11:41:59] [Server thread/INFO]: Generating keypair
-[11:41:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:41:59] [Server thread/INFO]: Using default channel type
-[11:42:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:42:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:42:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:42:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:42:00] [Server thread/INFO]: Preparing level "world"
-[11:42:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:42:00] [Server thread/INFO]: Loaded 524 recipes
-[11:42:01] [Server thread/INFO]: Loaded 571 advancements
-[11:42:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 4%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 8%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 12%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 16%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 20%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 24%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 28%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 32%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 36%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 40%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 44%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 48%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 52%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 56%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 60%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 64%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 68%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 72%
-[11:42:01] [Server thread/INFO]: Preparing spawn area: 76%
-[11:42:02] [Server thread/INFO]: Preparing spawn area: 80%
-[11:42:02] [Server thread/INFO]: Preparing spawn area: 84%
-[11:42:02] [Server thread/INFO]: Preparing spawn area: 88%
-[11:42:02] [Server thread/INFO]: Preparing spawn area: 92%
-[11:42:02] [Server thread/INFO]: Preparing spawn area: 96%
-[11:42:02] [Server thread/INFO]: Preparing spawn area: 100%
-[11:42:02] [Server thread/INFO]: Time elapsed: 730 ms
-[11:42:02] [Server thread/INFO]: Done (1.776s)! For help, type "help"
-[11:44:35] [Server thread/INFO]: Alfajorcito[/2620:9b:0:0:0:0:1949:f23c:63720] logged in with entity id 1287 at (112.74854566308439, 65.5625, -173.84348788225955)
-[11:44:35] [Server thread/INFO]: Alfajorcito joined the game
-[11:45:16] [Server thread/INFO]: <Alfajorcito> aa
-[11:45:18] [Server thread/INFO]: <Alfajorcito> XD
-[12:19:02] [Server thread/INFO]: cbajas[/192.168.0.44:49360] logged in with entity id 5019 at (118.60620346263191, 65.0, -162.7033294813951)
-[12:19:02] [Server thread/INFO]: cbajas joined the game
-[12:20:19] [Server thread/INFO]: <cbajas> hola
-[12:20:22] [Server thread/INFO]: <Alfajorcito> :3
-[12:21:58] [Server thread/INFO]: <Alfajorcito> wow
-[12:22:00] [Server thread/INFO]: <Alfajorcito> sos arquitecto
-[12:22:04] [Server thread/INFO]: <cbajas> algo asi
-[12:22:12] [Server thread/INFO]: <cbajas> ingeniero civil
-[12:22:13] [Server thread/INFO]: <Alfajorcito> yo estuve reparando el bosque de mierda este
-[12:22:15] [Server thread/INFO]: <Alfajorcito> que está todo explotado
-[12:22:21] [Server thread/INFO]: <cbajas> reparando?
-[12:22:23] [Server thread/INFO]: <Alfajorcito> c
-[12:22:28] [Server thread/INFO]: <Alfajorcito> para q no quede tan horrible cuando queremos talar
-[12:22:35] [Server thread/INFO]: <cbajas> enseguida nomas van a venira talar
-[12:22:40] [Server thread/INFO]: <cbajas> todos esos arboles d mierda
-[12:22:44] [Server thread/INFO]: <Alfajorcito> si pero eso me chupa un huevo
-[12:22:48] [Server thread/INFO]: <Alfajorcito> yo no quiero que haya pozos
-[12:23:06] [Server thread/INFO]: <cbajas> no digas mas
-[12:23:29] [Server thread/INFO]: Alfajorcito was slain by Enderman
-[12:23:32] [Server thread/INFO]: <Alfajorcito> jojo
-[12:23:34] [Server thread/INFO]: <Alfajorcito> me hizo verga
-[12:23:51] [Server thread/INFO]: <cbajas> xd
-[12:24:00] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[12:24:00] [Server thread/INFO]: Alfajorcito left the game
-[12:24:27] [Server thread/INFO]: Alfajorcito[/2620:9b:0:0:0:0:1949:f23c:52687] logged in with entity id 7676 at (64.21560835897404, 71.0, -148.59249539522466)
-[12:24:27] [Server thread/INFO]: Alfajorcito joined the game
-[12:25:11] [Server thread/INFO]: <cbajas> xd
-[12:25:14] [Server thread/INFO]: <Alfajorcito> VAMOS MANAOS
-[12:25:19] [Server thread/INFO]: <Alfajorcito> LE ROBE EL BLOQUE DE LA MAON
-[12:25:25] [Server thread/INFO]: <Alfajorcito> y es el bloque con pasto
-[12:25:30] [Server thread/INFO]: <Alfajorcito> ahora le puedo poner pasto a las vacas :3
-[12:25:46] [Server thread/INFO]: <cbajas> Q CAPO
-[12:25:48] [Server thread/INFO]: <Alfajorcito> :D
-[12:25:48] [Server thread/INFO]: <cbajas> TE AMO
-[12:25:54] [Server thread/INFO]: <Alfajorcito> n_N
-[12:30:18] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[12:30:18] [Server thread/INFO]: Alfajorcito left the game
-[12:30:25] [Server thread/INFO]: vijote[/25.65.117.95:52156] logged in with entity id 9206 at (134.74495247175807, 69.0, -174.92966066464908)
-[12:30:25] [Server thread/INFO]: vijote joined the game
-[12:55:37] [Server thread/INFO]: cbajas fell from a high place
-[12:58:32] [Server thread/INFO]: vijote has made the advancement [Enchanter]
-[13:03:21] [Server thread/INFO]: cbajas lost connection: Disconnected
-[13:03:21] [Server thread/INFO]: cbajas left the game
-[13:03:55] [Server thread/INFO]: cbajas[/192.168.0.44:49445] logged in with entity id 19472 at (143.69999998807907, 74.0, -191.8880131777089)
-[13:03:55] [Server thread/INFO]: cbajas joined the game
-[13:04:19] [Server thread/INFO]: cbajas lost connection: Disconnected
-[13:04:19] [Server thread/INFO]: cbajas left the game
-[13:04:23] [Server thread/INFO]: cbajas[/192.168.0.44:49449] logged in with entity id 19725 at (143.69999998807907, 74.0, -191.8880131777089)
-[13:04:23] [Server thread/INFO]: cbajas joined the game
-[13:08:05] [Server thread/INFO]: Set the weather to clear
-[13:08:29] [Server thread/INFO]: vijote was slain by Phantom
-[13:08:36] [Server thread/INFO]: Set the weather to clear
-[13:24:42] [Server thread/INFO]: cbajas was slain by Drowned
-[13:28:25] [Server thread/INFO]: vijote was slain by Drowned
-[13:36:24] [Server thread/INFO]: Alfajorcito[/25.73.242.60:52957] logged in with entity id 27166 at (137.92952105082023, 71.0, -125.16171561799854)
-[13:36:24] [Server thread/INFO]: Alfajorcito joined the game
-[13:36:29] [Server thread/INFO]: <Alfajorcito> :3
-[13:37:45] [Server thread/INFO]: <Alfajorcito> we
-[13:37:51] [Server thread/INFO]: <Alfajorcito> armando hizo un pozo de agua de 3 x 1
-[13:37:52] [Server thread/INFO]: <Alfajorcito> q cancer
-[13:48:56] [Server thread/INFO]: <Alfajorcito> no
-[13:48:57] [Server thread/INFO]: <Alfajorcito> NO
-[13:49:04] [Server thread/INFO]: <vijote> no son iguales
-[13:49:08] [Server thread/INFO]: <cbajas> chupam el chilo
-[13:49:12] [Server thread/INFO]: <Alfajorcito> pirala
-[13:49:40] [Server thread/INFO]: <Alfajorcito> uds quieren bajar esta montañad e alado de mi casa?
-[13:49:48] [Server thread/INFO]: <Alfajorcito> pq esta peladita
-[13:49:49] [Server thread/INFO]: <vijote> si
-[13:49:53] [Server thread/INFO]: <cbajas> mmm
-[13:49:54] [Server thread/INFO]: <cbajas> no
-[13:49:54] [Server thread/INFO]: <Alfajorcito> d1
-[13:50:13] [Server thread/INFO]: <Alfajorcito> pq esta esta tierra asi
-[13:50:17] [Server thread/INFO]: <Alfajorcito> chupame
-[13:50:20] [Server thread/INFO]: <Alfajorcito> para q quier esto
-[13:50:27] [Server thread/INFO]: <Alfajorcito> no me entra
-[13:50:35] [Server thread/INFO]: <cbajas> fachero
-[13:50:36] [Server thread/INFO]: <cbajas> mal
-[13:50:39] [Server thread/INFO]: <Alfajorcito> esta un cancer
-[13:50:44] [Server thread/INFO]: <cbajas> jajajajajaa
-[13:50:52] [Server thread/INFO]: <Alfajorcito> esto esta fachero mira
-[13:50:57] [Server thread/INFO]: <Alfajorcito> madera sin corteza
-[13:51:01] [Server thread/INFO]: <Alfajorcito> para no seas bobo queda re feo
-[13:51:03] [Server thread/INFO]: <cbajas> keee
-[13:51:20] [Server thread/INFO]: <cbajas> nena
-[13:51:23] [Server thread/INFO]: <cbajas> marico
-[13:51:28] [Server thread/INFO]: <Alfajorcito> podrido de server feos estoy
-[13:51:32] [Server thread/INFO]: <Alfajorcito> alfin armando no quiere romper todo
-[13:51:43] [Server thread/INFO]: <cbajas> unas ganas de una buena batalla de gallos
-[13:51:46] [Server thread/INFO]: <cbajas> no te parece?
-[13:51:51] [Server thread/INFO]: <Alfajorcito> re cagalos a trompadas si queres
-[13:51:53] [Server thread/INFO]: <Alfajorcito> molestan nomas
-[13:52:02] [Server thread/INFO]: <cbajas> kjaajaaaj
-[13:57:19] [Server thread/INFO]: vijote has made the advancement [Suit Up]
-[13:58:37] [Server thread/INFO]: <vijote> felipe
-[13:58:39] [Server thread/INFO]: <vijote> sale discord
-[13:58:41] [Server thread/INFO]: <Alfajorcito> :D
-[13:58:41] [Server thread/INFO]: <Alfajorcito> buenow
-[13:59:56] [Server thread/INFO]: <Alfajorcito> esta medio vacio el discord
-[14:00:00] [Server thread/INFO]: <Alfajorcito> LOL
-[14:00:03] [Server thread/INFO]: <Alfajorcito> entre y tenia una araña enfrente
-[14:00:07] [Server thread/INFO]: <Alfajorcito> que no me estaba atacando
-[14:00:11] [Server thread/INFO]: <Alfajorcito> pero igual estaba todo violado
-[14:00:15] [Server thread/INFO]: <Alfajorcito> se me hace q se hizo la loca
-[14:12:34] [Server thread/INFO]: Set the weather to clear
-[14:16:53] [Server thread/INFO]: <Alfajorcito> aa
-[14:19:38] [Server thread/INFO]: Set the weather to clear
-[14:20:16] [Server thread/INFO]: vijote has made the advancement [The Parrots and the Bats]
-[14:25:07] [Server thread/INFO]: Set the weather to clear
-[14:30:14] [Server thread/INFO]: Set the weather to clear
-[14:37:00] [Server thread/INFO]: Set the weather to clear
-[14:42:04] [Server thread/INFO]: Set the weather to clear
-[14:43:12] [Server thread/INFO]: <cbajas> xd
-[14:47:08] [Server thread/INFO]: Set the weather to clear
-[14:53:39] [Server thread/WARN]: Alfajorcito moved too quickly! -1.9673407379620187,-10.221069856431754,1.0327013630907516
-[14:53:41] [Server thread/WARN]: Alfajorcito moved too quickly! -1.6390700768864122,-10.188594643186804,1.016651851495567
-[14:53:43] [Server thread/INFO]: Alfajorcito fell from a high place
-[14:54:06] [Server thread/INFO]: Set the weather to clear
-[14:59:10] [Server thread/INFO]: Set the weather to clear
-[14:59:36] [Server thread/INFO]: <vijote> XD
-[15:00:20] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[15:00:20] [Server thread/INFO]: Alfajorcito left the game
-[15:00:49] [Server thread/INFO]: Set the time to 0
-[15:04:13] [Server thread/INFO]: Set the time to 0
-[15:04:15] [Server thread/INFO]: Set the weather to clear
-[15:09:21] [Server thread/INFO]: Set the weather to clear
-[15:14:46] [Server thread/INFO]: Set the weather to clear
-[15:16:23] [Server thread/INFO]: Alfajorcito[/2620:9b:0:0:0:0:1949:f23c:53330] logged in with entity id 76992 at (137.30000001192093, 69.0, -154.23750001192093)
-[15:16:23] [Server thread/INFO]: Alfajorcito joined the game
-[15:19:51] [Server thread/INFO]: Set the weather to clear
-[15:24:05] [Server thread/INFO]: Set the time to 13000
-[15:24:27] [Server thread/INFO]: cbajas has made the advancement [Sweet Dreams]
-[15:24:30] [Server thread/INFO]: <cbajas> hola
-[15:24:37] [Server thread/INFO]: <cbajas> zzzZZZZz
-[15:25:17] [Server thread/INFO]: Set the weather to clear
-[15:27:10] [Server thread/WARN]: cbajas moved too quickly! -0.3221619830030704,-10.44585883712503,-0.05200835367111267
-[15:27:11] [Server thread/INFO]: cbajas fell from a high place
-[15:27:44] [Server thread/WARN]: Alfajorcito moved too quickly! -3.3355462987608178,4.0,-8.636023003790825
-[15:27:59] [Server thread/INFO]: <Alfajorcito> aa
-[15:28:00] [Server thread/INFO]: <Alfajorcito> laj
-[15:30:21] [Server thread/INFO]: Set the weather to clear
-[15:35:24] [Server thread/INFO]: Set the weather to clear
-[15:40:27] [Server thread/INFO]: Set the weather to clear
-[15:43:15] [Server thread/INFO]: <Alfajorcito> aaa
-[15:43:15] [Server thread/INFO]: <Alfajorcito> ola
-[15:43:16] [Server thread/INFO]: <Alfajorcito> lajk
-[15:43:44] [Server thread/INFO]: Alfajorcito lost connection: Timed out
-[15:43:44] [Server thread/INFO]: Alfajorcito left the game
-[15:43:55] [Server thread/INFO]: Alfajorcito[/2620:9b:0:0:0:0:1949:f23c:53359] logged in with entity id 91093 at (143.58041002972965, 59.0, -167.8523269670255)
-[15:43:55] [Server thread/INFO]: Alfajorcito joined the game
-[15:44:00] [Server thread/INFO]: <Alfajorcito> aa
-[15:45:00] [Server thread/INFO]: <Alfajorcito> aaaa
-[15:45:01] [Server thread/INFO]: <Alfajorcito> abc
-[15:45:03] [Server thread/INFO]: <Alfajorcito> abcdefg
-[15:45:27] [Server thread/INFO]: <Alfajorcito> aa
-[15:45:30] [Server thread/INFO]: <Alfajorcito> >:(
-[15:45:32] [Server thread/INFO]: <Alfajorcito> lagged
-[15:45:50] [Server thread/INFO]: Set the weather to clear
-[15:51:48] [Server thread/INFO]: Set the weather to clear
-[15:56:57] [Server thread/INFO]: Set the weather to clear
-[16:01:00] [Server thread/WARN]: Alfajorcito moved too quickly! -3.419344379963917,3.0013359791121417,-9.180212876319757
-[16:02:00] [Server thread/INFO]: Set the weather to clear
-[16:07:18] [Server thread/INFO]: Set the weather to clear
-[16:11:43] [Server thread/INFO]: vijote lost connection: Disconnected
-[16:11:43] [Server thread/INFO]: vijote left the game
+[00:00:02] [Server thread/INFO]: <Alfajorcito> we es mucho
+[00:00:07] [Server thread/INFO]: <Alfajorcito> vamos a necesitar demasiados stacks
+[00:00:08] [Server thread/INFO]: <Alfajorcito> pero bigote
+[00:00:14] [Server thread/INFO]: <Alfajorcito> como vamos a hacer un piso arriba si es de vidrio
+[00:00:18] [Server thread/INFO]: <Alfajorcito> que sea transparente?
+[00:00:22] [Server thread/INFO]: <vijote> y si
+[00:00:32] [Server thread/INFO]: <Alfajorcito> pero asi no va a ser rico jugar a la escondida
+[00:00:36] [Server thread/INFO]: <vijote> pq no
+[00:00:41] [Server thread/INFO]: <Alfajorcito> pq los tramperos van abajo
+[00:00:42] [Server thread/INFO]: <Alfajorcito> y te fichan
+[00:00:45] [Server thread/INFO]: <vijote> ahre
+[00:00:49] [Server thread/INFO]: <vijote> pero era solo arriba el dato
+[00:01:13] [Server thread/INFO]: <Alfajorcito> posta son muchos
+[00:01:16] [Server thread/INFO]: <Alfajorcito> y con armadura de cuero
+[00:01:18] [Server thread/INFO]: <Alfajorcito> no se puede
+[00:01:25] [Server thread/INFO]: <Alfajorcito> menos en normal xd
+[00:01:26] [Server thread/INFO]: <Alfajorcito> armando
+[00:01:28] [Server thread/INFO]: <Alfajorcito> estaba en facil el sv
+[00:01:32] [Server thread/INFO]: <Alfajorcito> se puso en facil nose cuando
+[00:01:48] [Server thread/INFO]: <Armando> d1
+[00:02:33] [Server thread/INFO]: <vijote> we
+[00:02:35] [Server thread/INFO]: <vijote> podriamos haber hecho
+[00:02:40] [Server thread/INFO]: <vijote> na
+[00:02:41] [Server thread/INFO]: <vijote> mejor no
+[00:03:33] [Server thread/INFO]: <Armando> oye no
+[00:03:49] [Server thread/INFO]: <Armando> se quema el bosque
+[00:03:53] [Server thread/INFO]: <Armando> rico rayo
+[00:04:12] [Server thread/INFO]: <Alfajorcito> rico
+[00:04:14] [Server thread/INFO]: <Alfajorcito> bueno
+[00:04:18] [Server thread/INFO]: <Alfajorcito> que la naturaleza siga su curso
+[00:04:24] [Server thread/INFO]: <vijote> seleccio nnatural
+[00:04:36] [Server thread/INFO]: <Alfajorcito> parecido
+[00:04:50] [Server thread/INFO]: <vijote> ke
+[00:04:52] [Server thread/INFO]: <vijote> un enderman emperrado
+[00:04:57] [Server thread/INFO]: <Alfajorcito> sos ciego
+[00:05:01] [Server thread/INFO]: <Alfajorcito> no ves q esta lloviendo
+[00:05:13] [Server thread/INFO]: <vijote> pero me vino aca al lado
+[00:05:14] [Server thread/INFO]: <vijote> y se fue
+[00:05:20] [Server thread/INFO]: <Alfajorcito> pq se teletransportan
+[00:05:21] [Server thread/INFO]: <Alfajorcito> a todos lados
+[00:05:22] [Server thread/INFO]: <vijote> aca ta
+[00:05:23] [Server thread/INFO]: <Alfajorcito> hasta q mueren
+[00:05:25] [Server thread/INFO]: <vijote> emperrado conmigo
+[00:05:25] [Server thread/INFO]: <Alfajorcito> o se esconden
+[00:05:29] [Server thread/INFO]: <vijote> vengan y matenlo
+[00:05:32] [Server thread/INFO]: <Alfajorcito> donde
+[00:05:38] [Server thread/INFO]: <vijote> c fue
+[00:05:45] [Server thread/INFO]: <Alfajorcito> x'3
+[00:06:05] [Server thread/INFO]: <Alfajorcito> we es muy grande
+[00:06:11] [Server thread/INFO]: <Alfajorcito> pensar nomas en la cantidad de vidrio
+[00:06:12] [Server thread/INFO]: <Alfajorcito> me cansa
+[00:06:21] [Server thread/INFO]: <vijote> por eso estaba pensando
+[00:06:26] [Server thread/INFO]: <vijote> si hacemos de hojas
+[00:06:27] [Server thread/INFO]: <vijote> de arbol
+[00:06:30] [Server thread/INFO]: <Alfajorcito> LOOOOOOOl
+[00:06:31] [Server thread/INFO]: <Armando> feliupe
+[00:06:32] [Server thread/INFO]: <Alfajorcito> we
+[00:06:33] [Server thread/INFO]: <vijote> pero no se va a ver un choto
+[00:06:33] [Server thread/INFO]: <Armando> aca estan
+[00:06:35] [Server thread/INFO]: <Armando> mis tortugas
+[00:06:35] [Server thread/INFO]: <Alfajorcito> va a ser re divertido
+[00:06:39] [Server thread/INFO]: <Alfajorcito> encerralas
+[00:06:41] [Server thread/INFO]: <Alfajorcito> mantenelas ahi
+[00:06:44] [Server thread/INFO]: <Alfajorcito> hasta q tengamos un toque de seda
+[00:06:50] [Server thread/INFO]: <Alfajorcito> pero se va a ver riquisimo
+[00:06:53] [Server thread/INFO]: <Alfajorcito> par ajugar a la escondida
+[00:06:55] [Server thread/INFO]: <Alfajorcito> que todo sea hojas
+[00:06:58] [Server thread/INFO]: <Armando> aca cerca
+[00:07:01] [Server thread/INFO]: <Alfajorcito> pq uno pela el encendedor y las encuentra a todas
+[00:07:01] [Server thread/INFO]: <Armando> x 90
+[00:07:07] [Server thread/INFO]: <Armando> z -36
+[00:07:09] [Server thread/INFO]: <Alfajorcito> la cosa es que cae un rayo
+[00:07:14] [Server thread/INFO]: <Alfajorcito> y nosv emos en el inframundo
+[00:07:17] [Server thread/INFO]: <Alfajorcito> endeá
+[00:07:26] [Server thread/INFO]: <Armando> se dice tartaro
+[00:07:32] [Server thread/INFO]: <Alfajorcito> tártaro
+[00:07:37] [Server thread/INFO]: <vijote> tartaro
+[00:07:39] [Server thread/INFO]: <vijote> re griego
+[00:08:01] [Server thread/INFO]: <Alfajorcito> me esta dando paja
+[00:08:03] [Server thread/INFO]: <Alfajorcito> este techo xdd
+[00:08:15] [Server thread/INFO]: <vijote> le hacemos de hojas? xd
+[00:08:15] [Server thread/INFO]: <Alfajorcito> pero quedaria muy ecsitante
+[00:08:21] [Server thread/WARN]: Horse moved wrongly!
+[00:08:21] [Server thread/WARN]: Horse moved wrongly!
+[00:08:21] [Server thread/WARN]: Horse moved wrongly!
+[00:08:21] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:22] [Server thread/WARN]: Horse moved wrongly!
+[00:08:23] [Server thread/INFO]: <Alfajorcito> por que encima podemos jugar a las escondidas en las islas de mauri
+[00:08:25] [Server thread/INFO]: <Alfajorcito> asi que no necesitamos romperlas
+[00:08:34] [Server thread/INFO]: <Alfajorcito> no
+[00:08:37] [Server thread/INFO]: <Alfajorcito> vamos a hacerlo de vidrio
+[00:08:40] [Server thread/INFO]: <Alfajorcito> somos facheros no pelotudos
+[00:09:09] [Server thread/INFO]: <vijote> felipe
+[00:09:12] [Server thread/INFO]: <Alfajorcito> aprovechando la lava
+[00:09:14] [Server thread/INFO]: <vijote> trajiste las bolas de slime
+[00:09:15] [Server thread/INFO]: <vijote> ?
+[00:09:17] [Server thread/INFO]: <Alfajorcito> para cocinar unos parripollos
+[00:09:17] [Server thread/INFO]: <Alfajorcito> si
+[00:09:22] [Server thread/INFO]: <vijote> ok
+[00:09:24] [Server thread/INFO]: <Alfajorcito> estan en 1 de mis 9 cofres
+[00:09:40] [Server thread/INFO]: <Alfajorcito> estaban en 2
+[00:09:42] [Server thread/INFO]: <Alfajorcito> 1 en 1
+[00:09:44] [Server thread/INFO]: <Alfajorcito> y 7 en otro
+[00:09:48] [Server thread/INFO]: <Alfajorcito> y ahora estan en tu inventario
+[00:09:50] [Server thread/INFO]: <Alfajorcito> increible no=
+[00:09:52] [Server thread/INFO]: <Alfajorcito> ?
+[00:09:53] [Server thread/INFO]: <vijote> :O
+[00:10:15] [Server thread/INFO]: Alfajorcito has made the advancement [Suit Up]
+[00:10:37] [Server thread/INFO]: <Armando> ya andaban los phantonms
+[00:10:56] [Server thread/INFO]: <Armando> level 20 xd
+[00:11:14] [Server thread/INFO]: <Armando> me bajaron el peto
+[00:11:27] [Server thread/INFO]: <Alfajorcito> puse un easter egg en mi cas
+[00:11:28] [Server thread/INFO]: <Alfajorcito> rico
+[00:11:34] [Server thread/INFO]: <Alfajorcito> eeeh
+[00:11:36] [Server thread/INFO]: <Alfajorcito> es 25
+[00:11:39] [Server thread/INFO]: <Alfajorcito> tenemos nueva temporadaaa
+[00:12:01] [Server thread/INFO]: <Armando> esa lluvia estuvo rikisima para el farmeo
+[00:12:22] [Server thread/INFO]: <Alfajorcito> wow bigote
+[00:12:24] [Server thread/INFO]: <Alfajorcito> tenes un pollo
+[00:12:27] [Server thread/INFO]: <Alfajorcito> sos tarado
+[00:12:29] [Server thread/INFO]: <Alfajorcito> mira bigote
+[00:12:32] [Server thread/INFO]: <Alfajorcito> te muestro algo
+[00:12:49] [Server thread/INFO]: <Alfajorcito> no
+[00:12:50] [Server thread/INFO]: <vijote> :O
+[00:12:51] [Server thread/INFO]: <Alfajorcito> no te apures
+[00:12:55] [Server thread/INFO]: <Alfajorcito> me spoileaste
+[00:13:03] [Server thread/INFO]: <Alfajorcito> atalo
+[00:13:04] [Server thread/INFO]: <Alfajorcito> aca
+[00:13:16] [Server thread/INFO]: <Alfajorcito> pum
+[00:13:27] [Server thread/INFO]: <Alfajorcito> se rompio
+[00:13:28] [Server thread/INFO]: <vijote> d1
+[00:13:35] [Server thread/INFO]: <vijote> ke
+[00:13:37] [Server thread/INFO]: <vijote> me falta 1
+[00:13:38] [Server thread/INFO]: <Alfajorcito> se rompio enserio? xd
+[00:13:38] [Server thread/INFO]: <vijote> wtf
+[00:13:40] [Server thread/INFO]: <vijote> si
+[00:13:51] [Server thread/INFO]: <vijote> fijate si tenes 1 lazo
+[00:13:56] [Server thread/INFO]: <Alfajorcito> lol
+[00:13:57] [Server thread/INFO]: <Alfajorcito> si
+[00:15:20] [Server thread/INFO]: <vijote> wou un ender
+[00:15:24] [Server thread/INFO]: <Alfajorcito> voy
+[00:15:25] [Server thread/INFO]: <Alfajorcito> donde estas
+[00:15:30] [Server thread/INFO]: <vijote> en tu ksa
+[00:15:34] [Server thread/INFO]: <Alfajorcito> piraal
+[00:15:41] [Server thread/INFO]: <vijote> ah no
+[00:15:42] [Server thread/INFO]: <vijote> nqv
+[00:15:43] [Server thread/INFO]: <vijote> jeje
+[00:15:50] [Server thread/INFO]: <vijote> en el portal del ender
+[00:15:55] [Server thread/INFO]: <vijote> del nether
+[00:15:56] [Server thread/INFO]: <vijote> abajo
+[00:15:56] [Server thread/INFO]: <Armando> re daltonico
+[00:15:56] [Server thread/INFO]: <Alfajorcito> ENDER
+[00:16:00] [Server thread/INFO]: <vijote> dale veni
+[00:16:01] [Server thread/INFO]: <vijote> deja describir
+[00:16:21] [Server thread/INFO]: <vijote> bai
+[00:16:21] [Server thread/INFO]: <Alfajorcito> LOL
+[00:16:22] [Server thread/INFO]: <vijote> ke
+[00:16:23] [Server thread/INFO]: <Alfajorcito> JAJAJAj
+[00:16:25] [Server thread/INFO]: <Alfajorcito> camino en el techo
+[00:16:26] [Server thread/INFO]: <vijote> ._.
+[00:16:26] [Server thread/INFO]: <Alfajorcito> LO VI
+[00:16:46] [Server thread/INFO]: <Alfajorcito> se re tomo el lopa
+[00:17:07] [Server thread/INFO]: <vijote> lol
+[00:17:09] [Server thread/INFO]: <vijote> volvio por mas
+[00:17:27] [Server thread/INFO]: <Alfajorcito> encima vuelve
+[00:17:29] [Server thread/INFO]: <Alfajorcito> calmado
+[00:17:30] [Server thread/INFO]: <Alfajorcito> no me pega
+[00:17:36] [Server thread/INFO]: <Alfajorcito> mira
+[00:17:39] [Server thread/INFO]: <vijote> no se olvido de vos
+[00:17:41] [Server thread/INFO]: <Alfajorcito> esta re bobo
+[00:17:43] [Server thread/INFO]: <vijote> su alma gemela
+[00:17:48] [Server thread/INFO]: <Alfajorcito> me parece q le gust eis
+[00:18:02] [Server thread/INFO]: <Alfajorcito> where are you maboi
+[00:18:33] [Server thread/INFO]: <Alfajorcito> no esta
+[00:18:33] [Server thread/INFO]: <Alfajorcito> ja
+[00:18:40] [Server thread/INFO]: <vijote> se canso
+[00:18:43] [Server thread/INFO]: <vijote> de esperarte
+[00:18:47] [Server thread/INFO]: <Alfajorcito> q esperarme
+[00:18:51] [Server thread/INFO]: <vijote> eso pq no captaste sus indirectas
+[00:18:52] [Server thread/INFO]: <Alfajorcito> yo no puedo teletransportarme
+[00:18:54] [Server thread/INFO]: <Alfajorcito> osea si puedo
+[00:18:57] [Server thread/INFO]: <Alfajorcito> pero no gratis
+[00:20:15] [Server thread/INFO]: <Alfajorcito> me cago
+[00:20:17] [Server thread/INFO]: <Alfajorcito> a tridentaso
+[00:20:27] [Server thread/INFO]: <Alfajorcito> pero me revento
+[00:20:29] [Server thread/INFO]: <Alfajorcito> spawneo en el agua
+[00:20:43] [Server thread/INFO]: <Alfajorcito> y me lo dio
+[00:20:50] [Server thread/INFO]: <Alfajorcito> a ese gran pedazo de carne de zombi que yo queria
+[00:20:50] [Server thread/INFO]: <Armando> donde?
+[00:21:02] [Server thread/INFO]: <Alfajorcito> nunca saco el tridente lpm
+[00:21:11] [Server thread/INFO]: <Alfajorcito> we
+[00:21:15] [Server thread/INFO]: <Alfajorcito> pq le fajaron al arbol
+[00:21:20] [Server thread/INFO]: <Armando> jajajajajaja
+[00:21:23] [Server thread/INFO]: <Armando> yo no fui
+[00:21:27] [Server thread/INFO]: <Armando> que feo queda jajajajaja
+[00:21:37] [Server thread/INFO]: <Alfajorcito> esta facherisimo
+[00:21:51] [Server thread/INFO]: <Alfajorcito> parece un pedazo de sorete
+[00:21:54] [Server thread/INFO]: <Alfajorcito> con ojas
+[00:21:57] [Server thread/INFO]: <Armando> mira este
+[00:21:58] [Server thread/INFO]: <Alfajorcito> un sorete vegano
+[00:22:01] [Server thread/INFO]: <Alfajorcito> we
+[00:22:03] [Server thread/INFO]: <Alfajorcito> ese se mamo
+[00:22:09] [Server thread/INFO]: <Alfajorcito> sorete blanco de perro
+[00:22:25] [Server thread/INFO]: <Armando> posta que
+[00:22:28] [Server thread/INFO]: <Armando> quedo copada la casa
+[00:22:37] [Server thread/INFO]: <Alfajorcito> si
+[00:22:42] [Server thread/INFO]: <Alfajorcito> es mas asequible
+[00:23:03] [Server thread/INFO]: <Armando> we traumado
+[00:23:07] [Server thread/INFO]: <Armando> atadito el caballo
+[00:23:15] [Server thread/INFO]: <Alfajorcito> y
+[00:23:20] [Server thread/INFO]: <Alfajorcito> y vuelve
+[00:23:20] [Server thread/INFO]: <Alfajorcito> encima
+[00:23:22] [Server thread/INFO]: <Alfajorcito> pero no saltes
+[00:23:22] [Server thread/INFO]: <Armando> eso si no sabia que se podia hacer
+[00:23:23] [Server thread/INFO]: <Alfajorcito> que se corta
+[00:23:52] [Server thread/INFO]: <Alfajorcito> saben q no vi
+[00:23:56] [Server thread/INFO]: <vijote> a tu mama
+[00:23:58] [Server thread/INFO]: <Alfajorcito> los zombis amarillos
+[00:23:59] [Server thread/INFO]: <Alfajorcito> del otro server
+[00:24:01] [Server thread/INFO]: <Alfajorcito> ni 1 solo
+[00:24:17] [Server thread/INFO]: <Alfajorcito> capaz son de desierto
+[00:24:22] [Server thread/INFO]: <Armando> son de decierto
+[00:25:09] [Server thread/INFO]: <vijote> we
+[00:25:12] [Server thread/INFO]: <vijote> estoy re protegido ahorat
+[00:25:14] [Server thread/INFO]: <vijote> con el techo
+[00:25:19] [Server thread/INFO]: <vijote> ni phantom me llegan
+[00:25:26] [Server thread/INFO]: <Alfajorcito> lo q si
+[00:25:29] [Server thread/INFO]: <Alfajorcito> entra 1 y no sale mas
+[00:25:33] [Server thread/INFO]: <vijote> posta
+[00:25:53] [Server thread/INFO]: <vijote> estoy en una crisis muy grande
+[00:25:57] [Server thread/INFO]: <vijote> de tener demasiado tiempo al pedo
+[00:26:00] [Server thread/INFO]: <vijote> y nada que hacer
+[00:26:10] [Server thread/INFO]: <Alfajorcito> posta
+[00:26:11] [Server thread/INFO]: <Alfajorcito> osea
+[00:26:15] [Server thread/INFO]: <Alfajorcito> puedo hacer un techo de vidrio viste
+[00:26:19] [Server thread/INFO]: <Alfajorcito> pero nose si lo vale jsjsjs
+[00:26:27] [Server thread/INFO]: <Alfajorcito> lo peor es q ya hice todo lo que podia hacer en mi casa
+[00:26:32] [Server thread/INFO]: <Alfajorcito> ya limpie la pecera y le compre la comida a mi gata
+[00:26:37] [Server thread/INFO]: <Alfajorcito> mas q eso no puedo hacer
+[00:26:52] [Server thread/INFO]: <Alfajorcito> limpiar la pc
+[00:26:57] [Server thread/INFO]: <Alfajorcito> pero med a mas paja que el techo de vidrio
+[00:27:18] [Server thread/INFO]: <vijote> ke
+[00:27:19] [Server thread/INFO]: <vijote> trompetas
+[00:27:21] [Server thread/INFO]: <vijote> a aesta hora
+[00:27:25] [Server thread/INFO]: <vijote> quien sigue en pedo
+[00:27:31] [Server thread/INFO]: <Alfajorcito> XD
+[00:27:33] [Server thread/INFO]: <Alfajorcito> los de 5to
+[00:27:44] [Server thread/INFO]: <vijote> de 6to
+[00:27:46] [Server thread/INFO]: <Armando> wi
+[00:27:47] [Server thread/INFO]: <Alfajorcito> endeá
+[00:27:49] [Server thread/INFO]: <Armando> me llego
+[00:28:06] [Server thread/INFO]: <vijote> q te llego
+[00:28:07] [Server thread/INFO]: <Armando> su manada de zombies
+[00:28:08] [Server thread/INFO]: <vijote> mi carta de amor
+[00:28:11] [Server thread/INFO]: <Armando> estaba matandolos
+[00:28:13] [Server thread/INFO]: <Armando> 2 con pala
+[00:28:24] [Server thread/INFO]: <Alfajorcito> lol
+[00:28:25] [Server thread/INFO]: <Alfajorcito> bigote
+[00:28:27] [Server thread/INFO]: <Armando> y los 2
+[00:28:29] [Server thread/INFO]: <Alfajorcito> parece q duplice los cosos
+[00:28:29] [Server thread/INFO]: <vijote> ke
+[00:28:31] [Server thread/INFO]: <Alfajorcito> las cuerdas
+[00:28:32] [Server thread/INFO]: <Armando> me dropearon la pala
+[00:28:32] [Server thread/INFO]: <Alfajorcito> pq tengo 2
+[00:28:36] [Server thread/INFO]: <vijote> d1
+[00:28:39] [Server thread/INFO]: <Armando> tengo 2 pala de hierro gratis
+[00:28:44] [Server thread/INFO]: <Alfajorcito> rico
+[00:29:33] [Server thread/INFO]: <Alfajorcito> no me sale mas ja
+[00:29:41] [Server thread/INFO]: <vijote> ke
+[00:29:43] [Server thread/INFO]: <vijote> volvio felipe
+[00:29:45] [Server thread/INFO]: <vijote> emperrado conmigo
+[00:29:47] [Server thread/INFO]: <Alfajorcito> LOL
+[00:29:52] [Server thread/INFO]: <Alfajorcito> donde
+[00:30:00] [Server thread/WARN]: Alfajorcito moved too quickly! 0.36285527620199787,-10.408991223757695,2.215295804052971
+[00:30:01] [Server thread/INFO]: <vijote> le meti un cañaso
+[00:30:04] [Server thread/INFO]: <vijote> lo mande al agua
+[00:30:06] [Server thread/INFO]: <vijote> y se pioro
+[00:30:09] [Server thread/INFO]: <Alfajorcito> vos decis
+[00:30:12] [Server thread/INFO]: <vijote> aaaaaa
+[00:30:15] [Server thread/INFO]: <Armando> y las perlas?
+[00:30:26] [Server thread/INFO]: <Alfajorcito> nunca los puedo matar
+[00:30:28] [Server thread/INFO]: <Alfajorcito> siempre pasa algo
+[00:30:40] [Server thread/INFO]: <vijote> we esta re lechudo
+[00:30:47] [Server thread/INFO]: <Alfajorcito> bloque de pasto
+[00:30:48] [Server thread/INFO]: <vijote> un bloque con pasto
+[00:30:49] [Server thread/INFO]: <Alfajorcito> gratiiiiiiis
+[00:30:49] [Server thread/INFO]: <vijote> de una
+[00:30:53] [Server thread/INFO]: <vijote> ponele a mauri
+[00:30:54] [Server thread/INFO]: <Alfajorcito> el tercero q saco
+[00:30:57] [Server thread/INFO]: <Alfajorcito> posta
+[00:31:29] [Server thread/INFO]: <Alfajorcito> puestado
+[00:32:35] [Server thread/INFO]: <Armando> nos vemos en un rato
+[00:32:40] [Server thread/INFO]: <Armando> voy a hacer una travesia
+[00:32:43] [Server thread/INFO]: <Armando> a ver hasta donde llego
+[00:32:51] [Server thread/INFO]: <Armando> antes de irme
+[00:32:55] [Server thread/INFO]: <Armando> no tienen mas perlas ender?
+[00:32:58] [Server thread/INFO]: <Alfajorcito> no
+[00:33:04] [Server thread/INFO]: <Armando> 1
+[00:33:07] [Server thread/INFO]: <Armando> aunque sea
+[00:33:10] [Server thread/INFO]: <Alfajorcito> en el cofre fijate
+[00:33:13] [Server thread/INFO]: <Alfajorcito> pero no las gastes para pabadas
+[00:33:15] [Server thread/INFO]: <Alfajorcito> quiero ir al end
+[00:33:21] [Server thread/INFO]: vijote burned to death
+[00:33:28] [Server thread/INFO]: <Alfajorcito> donde puta te quemaste
+[00:33:45] [Server thread/INFO]: <Alfajorcito> lol
+[00:33:47] [Server thread/INFO]: <Alfajorcito> se quemo aca
+[00:34:09] [Server thread/INFO]: <Alfajorcito> nose si agarrar sus bergas
+[00:34:15] [Server thread/INFO]: <Armando> bueno tengo 2 ojos end
+[00:34:18] [Server thread/INFO]: <Armando> nv en el fin
+[00:34:19] [Server thread/INFO]: <vijote> puta madre
+[00:34:35] [Server thread/INFO]: <vijote> donde chucha mori
+[00:34:44] [Server thread/INFO]: <Armando> concha
+[00:34:48] [Server thread/INFO]: <Armando> ya se me rompio una
+[00:34:49] [Server thread/INFO]: <Alfajorcito> aca
+[00:35:21] [Server thread/INFO]: <Armando> norte a -140
+[00:35:31] [Server thread/INFO]: <Armando> negative Z
+[00:35:36] [Server thread/INFO]: <Armando> hacia ahi va la perla
+[00:35:36] [Server thread/INFO]: <Alfajorcito> q carajo
+[00:35:36] [Server thread/INFO]: <vijote> wat
+[00:35:38] [Server thread/INFO]: <Alfajorcito> significa eso
+[00:35:42] [Server thread/INFO]: <Alfajorcito> ah
+[00:35:49] [Server thread/INFO]: <Armando> es brujula
+[00:35:56] [Server thread/INFO]: <Alfajorcito> el norte esta para la N
+[00:35:57] [Server thread/INFO]: <vijote> ostia puta
+[00:36:04] [Server thread/INFO]: <vijote> we eso me hace acordar al dont starve
+[00:36:22] [Server thread/INFO]: <Alfajorcito> capaz me baya a dormir
+[00:36:26] [Server thread/INFO]: <Alfajorcito> estoy mas elvio que lado
+[00:36:31] [Server thread/INFO]: <vijote> juas juas
+[00:36:32] [Server thread/INFO]: <Alfajorcito> asi q ns bemos
+[00:36:35] [Server thread/INFO]: <vijote> adiOS
+[00:36:38] [Server thread/INFO]: <Alfajorcito> tengan deseos buenos
+[00:36:40] [Server thread/INFO]: <Alfajorcito> no odien a su sprojiimos
+[00:36:46] [Server thread/INFO]: <Alfajorcito> y n unca le rechacen el sexo a un gorila
+[00:36:47] [Server thread/INFO]: <vijote> a vos nomas
+[00:36:50] [Server thread/INFO]: <Alfajorcito> pq ellos te hacen el sexo
+[00:36:53] [Server thread/INFO]: <Alfajorcito> bien fuerte
+[00:36:57] [Server thread/INFO]: <Alfajorcito> y es rico 7w7
+[00:37:01] [Server thread/INFO]: <Alfajorcito> nos bemos n_N
+[00:37:02] [Server thread/INFO]: <vijote> e_e
+[00:37:04] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[00:37:04] [Server thread/INFO]: Alfajorcito left the game
+[00:38:01] [Server thread/INFO]: vijote lost connection: Disconnected
+[00:38:01] [Server thread/INFO]: vijote left the game
+[00:38:05] [Server thread/INFO]: <Armando> lol
+[00:38:29] [Server thread/INFO]: vijote[/192.168.0.112:49639] logged in with entity id 82605 at (102.4641940663949, 70.0, -120.89578291462377)
+[00:38:29] [Server thread/INFO]: vijote joined the game
+[00:38:39] [Server thread/INFO]: <vijote> queria mirar
+[00:38:42] [Server thread/INFO]: <vijote> si estaba bien conectado
+[00:38:48] [Server thread/INFO]: <vijote> pq por ahi me conecto en hamachi
+[00:38:53] [Server thread/INFO]: <vijote> y me puedo conectar local
+[00:38:58] [Server thread/INFO]: <vijote> y creo q anda mejor para ustedes
+[00:39:18] [Server thread/INFO]: <Armando> rico
+[00:39:52] [Server thread/INFO]: <vijote> apa la papa
+[00:39:55] [Server thread/INFO]: <vijote> un poco de vidrio
+[00:40:10] [Server thread/INFO]: Armando has made the advancement [Best Friends Forever]
+[00:40:39] [Server thread/INFO]: <Armando> donde era que estaba la mansion
+[00:40:48] [Server thread/INFO]: <vijote> ni idea
+[00:41:03] [Server thread/INFO]: <vijote> no era algo de x1000 y z500
+[00:41:07] [Server thread/INFO]: <vijote> o algo en negativo era
+[00:41:08] [Server thread/INFO]: <Armando> al revez
+[00:41:10] [Server thread/INFO]: <Armando> ahi mire
+[00:41:26] [Server thread/INFO]: <Armando> LOL
+[00:41:39] [Server thread/INFO]: <Armando> encontrada
+[00:41:46] [Server thread/INFO]: <Armando> esta muy rica
+[00:41:56] [Server thread/INFO]: <vijote> cuidado pq hay un violador ahi adentro
+[00:41:59] [Server thread/INFO]: <vijote> q no me sale l nombre
+[00:42:02] [Server thread/INFO]: <vijote> q tiene un hacha
+[00:42:06] [Server thread/INFO]: <vijote> y esta lleno de esqueletos
+[00:42:13] [Server thread/INFO]: <Armando> si se que es skere entrar aca
+[00:42:14] [Server thread/INFO]: <Armando> por eso vine
+[00:42:49] [Server thread/INFO]: Set the time to 0
+[00:42:52] [Server thread/INFO]: <Armando> 2 flechasos
+[00:42:56] [Server thread/INFO]: <Armando> y arreglado tu violador
+[00:43:00] [Server thread/INFO]: <Armando> eso si me bajo 4 corazones
+[00:43:02] [Server thread/INFO]: <vijote> pobrecito
+[00:43:05] [Server thread/INFO]: <Armando> de un hachazo
+[00:43:13] [Server thread/INFO]: <Armando> y eso que tengo armadura xd
+[00:44:09] [Server thread/INFO]: <Armando> el invocador
+[00:44:10] [Server thread/INFO]: <Armando> muerto
+[00:45:10] [Server thread/INFO]: <Armando> ta muy rica la mansion
+[00:46:04] [Server thread/INFO]: <vijote> we q rico
+[00:46:06] [Server thread/INFO]: <vijote> en 2 segundos
+[00:46:12] [Server thread/INFO]: <vijote> me fume como 20 stacks de vidrio
+[00:46:15] [Server thread/INFO]: <vijote> y no complete una verga
+[00:46:29] [Server thread/INFO]: <Armando> biem
+[00:46:52] [Server thread/INFO]: <vijote> we q excitante
+[00:51:23] [Server thread/INFO]: <vijote> ah
+[00:51:28] [Server thread/INFO]: <vijote> el caballo esta atado mentalmente nomas
+[00:51:31] [Server thread/INFO]: <vijote> pq el lazo no lo veo
+[00:54:30] [Server thread/INFO]: <Armando> conchja
+[00:55:22] [Server thread/INFO]: <Armando> LOL
+[00:55:24] [Server thread/INFO]: <Armando> fantasmas
+[01:08:34] [Server thread/INFO]: <Armando> llegue al techo lol
+[01:21:38] [Server thread/INFO]: <Armando> LOL
+[01:21:39] [Server thread/INFO]: <Armando> viggys
+[01:28:53] [Server thread/WARN]: Armando moved too quickly! 1.5019290100126454,0.0,9.901999361370827
+[01:31:28] [Server thread/INFO]: Armando lost connection: Disconnected
+[01:31:28] [Server thread/INFO]: Armando left the game
+[01:38:06] [Server thread/INFO]: vijote lost connection: Disconnected
+[01:38:06] [Server thread/INFO]: vijote left the game
