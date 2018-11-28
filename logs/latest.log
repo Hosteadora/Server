@@ -1,53 +1,205 @@
-[19:09:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:09:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:09:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:09:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:09:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:09:09] [main/INFO]: Loaded 0 recipes
-[19:09:09] [main/INFO]: Loaded 0 advancements
-[19:09:09] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[19:09:09] [Server thread/INFO]: Loading properties
-[19:09:09] [Server thread/INFO]: Default game type: SURVIVAL
-[19:09:09] [Server thread/INFO]: Generating keypair
-[19:09:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:09:09] [Server thread/INFO]: Using default channel type
-[19:09:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:09:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:09:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:09:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:09:10] [Server thread/INFO]: Preparing level "world"
-[19:09:10] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:09:10] [Server thread/INFO]: Loaded 524 recipes
-[19:09:10] [Server thread/INFO]: Loaded 571 advancements
-[19:09:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 4%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 8%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 12%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 16%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 20%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 24%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 28%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 32%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 36%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 40%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 44%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 48%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 52%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 56%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 60%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 64%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 68%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 72%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 76%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 80%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 84%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 88%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 92%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 96%
-[19:09:11] [Server thread/INFO]: Preparing spawn area: 100%
-[19:09:11] [Server thread/INFO]: Time elapsed: 749 ms
-[19:09:11] [Server thread/INFO]: Done (1.770s)! For help, type "help"
-[19:09:51] [Server thread/INFO]: vijote[/192.168.0.112:57788] logged in with entity id 1542 at (159.13383276043479, 77.0, -133.29313229199033)
-[19:09:51] [Server thread/INFO]: vijote joined the game
-[19:10:14] [Server thread/INFO]: vijote lost connection: Disconnected
-[19:10:14] [Server thread/INFO]: vijote left the game
+[13:52:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:52:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:52:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:52:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:52:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:52:46] [main/INFO]: Loaded 0 recipes
+[13:52:46] [main/INFO]: Loaded 0 advancements
+[13:52:46] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[13:52:46] [Server thread/INFO]: Loading properties
+[13:52:46] [Server thread/INFO]: Default game type: SURVIVAL
+[13:52:46] [Server thread/INFO]: Generating keypair
+[13:52:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:52:46] [Server thread/INFO]: Using default channel type
+[13:52:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:52:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:52:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:52:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:52:47] [Server thread/INFO]: Preparing level "world"
+[13:52:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:52:47] [Server thread/INFO]: Loaded 524 recipes
+[13:52:48] [Server thread/INFO]: Loaded 571 advancements
+[13:52:48] [Server thread/ERROR]: Error loading saved data: villages
+java.util.zip.ZipException: Not in GZIP format
+	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
+	at hi.a(SourceFile:25) ~[server.jar:?]
+	at cbx.a(SourceFile:117) ~[server.jar:?]
+	at cbx.a(SourceFile:52) [server.jar:?]
+	at ccj.a(SourceFile:31) [server.jar:?]
+	at aye.a(SourceFile:20) [server.jar:?]
+	at td.i_(SourceFile:141) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:352) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:341) [server.jar:?]
+	at so.d(SourceFile:251) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[13:52:48] [Server thread/ERROR]: Error loading saved data: villages_nether
+java.util.zip.ZipException: Not in GZIP format
+	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
+	at hi.a(SourceFile:25) ~[server.jar:?]
+	at cbx.a(SourceFile:117) ~[server.jar:?]
+	at cbx.a(SourceFile:52) [server.jar:?]
+	at ccj.a(SourceFile:31) [server.jar:?]
+	at aye.a(SourceFile:20) [server.jar:?]
+	at sy.b(SourceFile:65) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:363) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:341) [server.jar:?]
+	at so.d(SourceFile:251) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[13:52:48] [Server thread/ERROR]: Error loading saved data: villages_end
+java.util.zip.ZipException: Not in GZIP format
+	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
+	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
+	at hi.a(SourceFile:25) ~[server.jar:?]
+	at cbx.a(SourceFile:117) ~[server.jar:?]
+	at cbx.a(SourceFile:52) [server.jar:?]
+	at ccj.a(SourceFile:31) [server.jar:?]
+	at aye.a(SourceFile:20) [server.jar:?]
+	at sy.b(SourceFile:65) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:370) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:341) [server.jar:?]
+	at so.d(SourceFile:251) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[13:52:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 4%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 8%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 12%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 16%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 20%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 24%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 28%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 32%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 36%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 40%
+[13:52:48] [Server thread/INFO]: Preparing spawn area: 44%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 48%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 52%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 56%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 60%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 64%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 68%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 72%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 76%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 80%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 84%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 88%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 92%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 96%
+[13:52:49] [Server thread/INFO]: Preparing spawn area: 100%
+[13:52:49] [Server thread/INFO]: Time elapsed: 926 ms
+[13:52:49] [Server thread/INFO]: Done (2.053s)! For help, type "help"
+[13:54:12] [Server thread/INFO]: vijote[/192.168.0.112:49972] logged in with entity id 1491 at (117.25821363298017, 65.0, -163.36639155703398)
+[13:54:12] [Server thread/INFO]: vijote joined the game
+[13:56:29] [Server thread/INFO]: Alfajorcito[/2620:9b:0:0:0:0:1949:f23c:50231] logged in with entity id 2323 at (119.82640723831739, 90.0, -157.8447895399118)
+[13:56:29] [Server thread/INFO]: Alfajorcito joined the game
+[13:59:57] [Server thread/INFO]: <vijote> ola
+[14:00:10] [Server thread/INFO]: <vijote> sale ese intento nº1999 de discord
+[14:00:20] [Server thread/INFO]: <Alfajorcito> weno
+[14:00:28] [Server thread/INFO]: <Alfajorcito> yo nunca sali igual x'D
+[14:01:19] [Server thread/WARN]: Alfajorcito moved too quickly! -0.6377856134329818,0.49520087700592796,10.08409250035973
+[14:03:26] [Server thread/INFO]: vijote has made the advancement [Isn't It Iron Pick]
+[14:06:20] [Server thread/INFO]: Alfajorcito has made the advancement [Stone Age]
+[14:14:23] [Server thread/INFO]: <Alfajorcito> aa
+[14:14:29] [Server thread/INFO]: <vijote> jaa
+[14:17:55] [Server thread/WARN]: vijote was kicked for floating too long!
+[14:17:55] [Server thread/INFO]: vijote lost connection: Flying is not enabled on this server
+[14:17:55] [Server thread/INFO]: vijote left the game
+[14:18:12] [Server thread/INFO]: vijote[/192.168.0.112:50101] logged in with entity id 12784 at (134.87727772389047, 69.8500000178814, -157.12870242298305)
+[14:18:12] [Server thread/INFO]: vijote joined the game
+[14:22:20] [Server thread/INFO]: vijote has made the advancement [Fishy Business]
+[14:25:27] [Server thread/INFO]: vijote lost connection: Disconnected
+[14:25:27] [Server thread/INFO]: vijote left the game
+[14:52:19] [Server thread/INFO]: Armando[/25.17.209.121:49269] logged in with entity id 23242 at (133.6022915386318, 12.0, -229.4870544504226)
+[14:52:19] [Server thread/INFO]: Armando joined the game
+[14:52:19] [Server thread/INFO]: Armando has made the advancement [Suit Up]
+[14:52:19] [Server thread/INFO]: Armando has made the advancement [Cover Me With Diamonds]
+[14:52:19] [Server thread/INFO]: Armando has made the advancement [Stone Age]
+[14:55:24] [Server thread/INFO]: <Alfajorcito> aa
+[15:03:43] [Server thread/INFO]: Armando lost connection: Disconnected
+[15:03:43] [Server thread/INFO]: Armando left the game
+[15:09:03] [Server thread/INFO]: Alfajorcito has made the advancement [The Parrots and the Bats]
+[15:13:04] [Server thread/INFO]: Alfajorcito has made the advancement [Isn't It Iron Pick]
+[15:13:52] [Server thread/INFO]: Alfajorcito has made the advancement [Enchanter]
+[15:31:38] [Server thread/INFO]: Alfajorcito has made the advancement [Diamonds!]
+[15:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[15:54:23] [Server thread/INFO]: Rmro[/25.8.202.175:57651] logged in with entity id 47970 at (236.30000001192093, 13.0, -170.961222994433)
+[15:54:23] [Server thread/INFO]: Rmro joined the game
+[15:55:26] [Server thread/INFO]: <Alfajorcito> aa
+[15:57:24] [Server thread/INFO]: vijote[/192.168.0.112:51380] logged in with entity id 49920 at (91.46943032291459, 63.0, -181.89925269571518)
+[15:57:24] [Server thread/INFO]: vijote joined the game
+[16:07:09] [Server thread/INFO]: <Alfajorcito> agarra esa armadura si queres
+[16:07:09] [Server thread/INFO]: <Alfajorcito> rmro
+[16:07:46] [Server thread/INFO]: Rmro has made the advancement [Suit Up]
+[16:08:34] [Server thread/INFO]: Alfajorcito has made the advancement [A Seedy Place]
+[16:18:21] [Server thread/INFO]: Armando[/25.17.209.121:49550] logged in with entity id 64275 at (129.11640647908393, 17.0, -212.30000001192093)
+[16:18:21] [Server thread/INFO]: Armando joined the game
+[16:18:33] [Server thread/INFO]: Armando has made the advancement [Monster Hunter]
+[16:19:05] [Server thread/INFO]: <Rmro> alto lag
+[16:20:33] [Server thread/INFO]: Armando has made the advancement [Not Today, Thank You]
+[16:20:53] [Server thread/INFO]: <Alfajorcito> aa
+[16:20:55] [Server thread/INFO]: <Alfajorcito> lajj
+[16:21:58] [Server thread/INFO]: Rmro has made the advancement [Isn't It Iron Pick]
+[16:22:32] [Server thread/INFO]: Armando has made the advancement [Acquire Hardware]
+[16:30:52] [Server thread/WARN]: Rmro moved too quickly! -8.14587614356941,6.5,-0.23977475476559107
+[16:32:36] [Server thread/INFO]: Armando has made the advancement [A Seedy Place]
+[16:32:43] [Server thread/INFO]: Kicked Armando: Kicked by an operator
+[16:32:43] [Server thread/INFO]: Armando lost connection: Kicked by an operator
+[16:32:43] [Server thread/INFO]: Armando left the game
+[16:33:22] [Server thread/INFO]: Armando[/25.17.209.121:49630] logged in with entity id 72894 at (100.54534849914593, 64.92159999847412, -166.62270710178143)
+[16:33:22] [Server thread/INFO]: Armando joined the game
+[16:34:28] [Server thread/WARN]: Alfajorcito moved too quickly! 5.104093172585237,0.8322033533667508,8.934528412974231
+[16:34:36] [Server thread/INFO]: <Alfajorcito> aa
+[16:34:48] [Server thread/INFO]: <Alfajorcito> XD
+[16:34:51] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[16:34:51] [Server thread/INFO]: Alfajorcito left the game
+[16:35:11] [Server thread/INFO]: Alfajorcito[/25.73.242.60:50577] logged in with entity id 73671 at (168.33305995392288, 68.24918707874468, -165.33600687369466)
+[16:35:11] [Server thread/INFO]: Alfajorcito joined the game
+[16:35:11] [Server thread/INFO]: Armando has made the advancement [Enchanter]
+[16:35:24] [Server thread/INFO]: <Alfajorcito> aaç
+[16:35:25] [Server thread/INFO]: <Alfajorcito> bbb
+[16:35:26] [Server thread/INFO]: <Alfajorcito> ccc
+[16:35:27] [Server thread/INFO]: <Alfajorcito> ddd
+[16:35:28] [Server thread/INFO]: <Alfajorcito> eee
+[16:35:28] [Server thread/INFO]: <Alfajorcito> fff
+[16:35:29] [Server thread/INFO]: <Alfajorcito> ggg
+[16:35:30] [Server thread/INFO]: <Alfajorcito> hhh
+[16:35:31] [Server thread/INFO]: <Alfajorcito> iii
+[16:35:33] [Server thread/INFO]: <Alfajorcito> jjj
+[16:35:44] [Server thread/INFO]: Set the weather to clear
+[16:35:46] [Server thread/INFO]: Set the time to 0
+[16:36:24] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[16:36:24] [Server thread/INFO]: Alfajorcito left the game
+[16:36:50] [Server thread/INFO]: Armando has made the advancement [Take Aim]
+[16:36:52] [Server thread/INFO]: vijote was shot by Armando
+[16:36:55] [Server thread/INFO]: Armando lost connection: Disconnected
+[16:36:55] [Server thread/INFO]: Armando left the game
+[16:37:13] [Server thread/INFO]: Banned Armando: Banned by an operator.
+[16:37:25] [Server thread/INFO]: Alfajorcito[/2620:9b:0:0:0:0:1949:f23c:50585] logged in with entity id 75504 at (215.51209205801183, 67.0, -256.4872810361877)
+[16:37:25] [Server thread/INFO]: Alfajorcito joined the game
+[16:38:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b9eb8bb[id=c3cba16a-4673-3815-8c47-57f128190ea3,name=Armando,properties={},legacy=false] (/25.17.209.121:49718): You are banned from this server.
+Reason: Banned by an operator.
+[16:38:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b9eb8bb[id=c3cba16a-4673-3815-8c47-57f128190ea3,name=Armando,properties={},legacy=false] (/25.17.209.121:49718) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[16:40:24] [Server thread/INFO]: <Alfajorcito> aa
+[16:41:30] [Server thread/INFO]: Set the weather to clear
+[16:43:41] [Server thread/INFO]: vijote was slain by Zombie
+[16:46:33] [Server thread/INFO]: Set the weather to clear
+[16:46:37] [Server thread/INFO]: Set the time to 0
+[16:51:42] [Server thread/INFO]: Set the weather to clear
+[16:51:44] [Server thread/INFO]: Set the time to 0
+[16:58:53] [Server thread/INFO]: Set the time to 0
+[16:59:10] [Server thread/INFO]: Rmro has made the advancement [We Need to Go Deeper]
+[16:59:11] [Server thread/INFO]: Set the weather to clear
+[17:04:15] [Server thread/INFO]: Set the weather to clear
+[17:04:18] [Server thread/INFO]: Set the time to 0
+[17:05:50] [Server thread/INFO]: <vijote> boia hacer un commit del sv
+[17:05:54] [Server thread/INFO]: <vijote> enseguida abro de vuelta
+[17:05:55] [Server thread/INFO]: vijote lost connection: Disconnected
+[17:05:55] [Server thread/INFO]: vijote left the game
