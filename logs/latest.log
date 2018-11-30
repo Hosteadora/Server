@@ -1,25 +1,25 @@
-[21:33:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:33:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:33:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:33:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:33:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:33:22] [main/INFO]: Loaded 0 recipes
-[21:33:22] [main/INFO]: Loaded 0 advancements
-[21:33:22] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[21:33:22] [Server thread/INFO]: Loading properties
-[21:33:22] [Server thread/INFO]: Default game type: SURVIVAL
-[21:33:22] [Server thread/INFO]: Generating keypair
-[21:33:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:33:22] [Server thread/INFO]: Using default channel type
-[21:33:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:33:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:33:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:33:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:33:23] [Server thread/INFO]: Preparing level "world"
-[21:33:23] [Server thread/INFO]: Reloading ResourceManager: Default
-[21:33:23] [Server thread/INFO]: Loaded 524 recipes
-[21:33:24] [Server thread/INFO]: Loaded 571 advancements
-[21:33:24] [Server thread/ERROR]: Error loading saved data: villages
+[09:50:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:50:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:50:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:50:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:50:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:50:59] [main/INFO]: Loaded 0 recipes
+[09:50:59] [main/INFO]: Loaded 0 advancements
+[09:50:59] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[09:50:59] [Server thread/INFO]: Loading properties
+[09:50:59] [Server thread/INFO]: Default game type: SURVIVAL
+[09:50:59] [Server thread/INFO]: Generating keypair
+[09:50:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:50:59] [Server thread/INFO]: Using default channel type
+[09:51:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:51:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:51:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:51:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:51:00] [Server thread/INFO]: Preparing level "world"
+[09:51:00] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:51:01] [Server thread/INFO]: Loaded 524 recipes
+[09:51:01] [Server thread/INFO]: Loaded 571 advancements
+[09:51:01] [Server thread/ERROR]: Error loading saved data: villages
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -35,7 +35,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:33:24] [Server thread/ERROR]: Error loading saved data: villages_nether
+[09:51:01] [Server thread/ERROR]: Error loading saved data: villages_nether
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -51,7 +51,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:33:24] [Server thread/ERROR]: Error loading saved data: villages_end
+[09:51:01] [Server thread/ERROR]: Error loading saved data: villages_end
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -67,423 +67,77 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[21:33:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 4%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 8%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 12%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 16%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 20%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 24%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 28%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 32%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 36%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 40%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 44%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 48%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 52%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 56%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 60%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 64%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 68%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 72%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 76%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 80%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 84%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 88%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 92%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 96%
-[21:33:25] [Server thread/INFO]: Preparing spawn area: 100%
-[21:33:25] [Server thread/INFO]: Time elapsed: 1351 ms
-[21:33:25] [Server thread/INFO]: Done (2.798s)! For help, type "help"
-[21:36:46] [Server thread/INFO]: Alfajorcito[/25.73.242.60:51972] logged in with entity id 1245 at (134.83206217233132, 69.0, -177.29969439183162)
-[21:36:46] [Server thread/INFO]: Alfajorcito joined the game
-[21:37:11] [Server thread/WARN]: Alfajorcito moved too quickly! -8.877676946493011,-4.964159374955443,-0.7297886559890117
-[21:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:46:05] [Server thread/WARN]: Alfajorcito moved too quickly! -7.778005815020023,-0.2522033402537218,-6.516299450113742
-[22:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12139ms or 242 ticks behind
-[22:13:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b4e959a[id=c3cba16a-4673-3815-8c47-57f128190ea3,name=Armando,properties={},legacy=false] (/127.0.0.1:49408): You are banned from this server.
-Reason: Banned by an operator.
-[22:13:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b4e959a[id=c3cba16a-4673-3815-8c47-57f128190ea3,name=Armando,properties={},legacy=false] (/127.0.0.1:49408) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[22:13:32] [Server thread/INFO]: Alfajorcito was slain by Zombie
-[22:13:35] [Server thread/WARN]: Alfajorcito moved too quickly! -511.66380744797925,54.099998474121094,-205.80007810684947
-[22:16:37] [Server thread/INFO]: Alfajorcito has made the advancement [Getting an Upgrade]
-[22:24:33] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:61469] logged in with entity id 26296 at (137.39368380113154, 103.0, -185.2205550992937)
-[22:24:33] [Server thread/INFO]: MAURIJAJAJA joined the game
-[22:24:43] [Server thread/INFO]: <Alfajorcito> aa
-[22:24:45] [Server thread/INFO]: <Alfajorcito> es imposible
-[22:24:50] [Server thread/INFO]: <Alfajorcito> son demasiados
-[22:24:52] [Server thread/INFO]: <MAURIJAJAJA> ?
-[22:24:53] [Server thread/INFO]: <Alfajorcito> son como 15
-[22:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[22:24:57] [Server thread/INFO]: <Alfajorcito> no puedo buscar mis cosas en paz
-[22:25:01] [Server thread/INFO]: <Alfajorcito> no me los saco dencima
-[22:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
-[22:25:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10018ms or 200 ticks behind
-[22:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5787ms or 115 ticks behind
-[22:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[22:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7295ms or 145 ticks behind
-[22:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11063ms or 221 ticks behind
-[22:27:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
-[22:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[22:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11039ms or 220 ticks behind
-[22:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
-[22:31:08] [Server thread/INFO]: <Alfajorcito> encima nose donde morir
-[22:31:09] [Server thread/INFO]: <Alfajorcito> mori
-[22:31:20] [Server thread/INFO]: MAURIJAJAJA lost connection: Timed out
-[22:31:20] [Server thread/INFO]: MAURIJAJAJA left the game
-[22:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4883ms or 97 ticks behind
-[22:31:21] [Server thread/INFO]: <Alfajorcito> y son 300 mil zombis igual
-[22:37:36] [Server thread/INFO]: Unknown command
-[22:37:36] [Server thread/INFO]: pardon<Armando><--[HERE]
-[22:37:43] [Server thread/INFO]: Unknown command
-[22:37:43] [Server thread/INFO]: kick<--[HERE]
-[22:37:49] [Server thread/INFO]: Unbanned Armando
-[22:38:49] [Server thread/INFO]: Alfajorcito was slain by Zombie
-[22:38:51] [Server thread/WARN]: Alfajorcito moved too quickly! -515.6182063069214,52.099998474121094,-183.60789227421645
-[22:38:53] [Server thread/INFO]: Armando[/127.0.0.1:49601] logged in with entity id 31324 at (117.2635643930675, 65.0, -166.72497685207915)
-[22:38:53] [Server thread/INFO]: Armando joined the game
-[22:38:58] [Server thread/INFO]: <Armando> tenes lag mongolo
-[22:39:00] [Server thread/INFO]: <Armando> ?
-[22:39:06] [Server thread/INFO]: <Alfajorcito> A
-[22:39:07] [Server thread/INFO]: <Alfajorcito> no
-[22:39:08] [Server thread/INFO]: <Alfajorcito> es dificil
-[22:39:09] [Server thread/INFO]: <Alfajorcito> hacer esto
-[22:39:12] [Server thread/INFO]: <Alfajorcito> nose como llegar a mis items
-[22:39:13] [Server thread/INFO]: <Armando> que cosa'
-[22:39:15] [Server thread/INFO]: <Armando> ?
-[22:39:18] [Server thread/INFO]: <Alfajorcito> llevo un balde de lava yy listo
-[22:39:42] [Server thread/INFO]: <Armando> teayduo?
-[22:39:45] [Server thread/INFO]: <Armando> yo quiuero matar
-[22:39:47] [Server thread/INFO]: <Alfajorcito> pls
-[22:39:48] [Server thread/INFO]: <Armando> dponde verga
-[22:39:50] [Server thread/INFO]: <Alfajorcito> no puede haber tantos zombis
-[22:39:51] [Server thread/INFO]: <Armando> te fuiste ?
-[22:39:53] [Server thread/INFO]: Alfajorcito has made the advancement [Hot Stuff]
-[22:39:56] [Server thread/INFO]: <Alfajorcito> encima hay diamantes
-[22:40:04] [Server thread/INFO]: <Armando> pero donde te fuiste?
-[22:40:08] [Server thread/INFO]: <Alfajorcito> seguime
-[22:41:59] [Server thread/INFO]: <Armando> we
-[22:42:03] [Server thread/INFO]: <Armando> me rompiste el orto
-[22:42:03] [Server thread/INFO]: <Alfajorcito> aca no es igual
-[22:42:04] [Server thread/INFO]: <Armando> xd
-[22:42:47] [Server thread/INFO]: <Armando> pq ignoraste
-[22:42:50] [Server thread/INFO]: <Armando> tanto recursos
-[22:42:54] [Server thread/INFO]: <Alfajorcito> pq me pudrieronw
-[22:42:59] [Server thread/INFO]: <Alfajorcito> el oro para q queremos
-[22:43:09] [Server thread/INFO]: <Alfajorcito> aca
-[22:43:11] [Server thread/INFO]: <Alfajorcito> por todos lados
-[22:43:12] [Server thread/INFO]: <Alfajorcito> zombis
-[22:43:43] [Server thread/INFO]: <Alfajorcito> atras de este muro
-[22:43:44] [Server thread/INFO]: <Alfajorcito> encerre boch
-[22:43:56] [Server thread/INFO]: <Alfajorcito> segui
-[22:44:00] [Server thread/INFO]: <Alfajorcito> despawnearon
-[22:44:01] [Server thread/INFO]: <Alfajorcito> bien
-[22:44:10] [Server thread/INFO]: <Armando> tengo castigo 5 :v
-[22:44:13] [Server thread/INFO]: <Alfajorcito> aca tenes diamatnes
-[22:44:24] [Server thread/INFO]: <Armando> le meto 1 solo espadaso y los mato
-[22:44:32] [Server thread/INFO]: Armando has made the advancement [Diamonds!]
-[22:44:43] [Server thread/INFO]: <Alfajorcito> no pq aca no estuve
-[22:44:45] [Server thread/INFO]: <Alfajorcito> mori en obdisiana
-[22:45:00] [Server thread/INFO]: <Alfajorcito> no
-[22:45:10] [Server thread/INFO]: <Alfajorcito> aya hay mas
-[22:45:29] [Server thread/INFO]: <Armando> 1 era
-[22:45:31] [Server thread/INFO]: <Alfajorcito> XD
-[22:45:55] [Server thread/INFO]: <Alfajorcito> use 2 antorchas antes de morir
-[22:46:01] [Server thread/INFO]: <Alfajorcito> tiene q aber 2
-[22:46:03] [Server thread/INFO]: <Alfajorcito> juntas
-[22:46:13] [Server thread/INFO]: <Alfajorcito> NNOO
-[22:46:25] [Server thread/INFO]: <Alfajorcito> perdi los 2 baldes
-[22:46:25] [Server thread/INFO]: <Alfajorcito> bien
-[22:46:31] [Server thread/INFO]: <Alfajorcito> el de lava y el de agua
-[22:47:31] [Server thread/INFO]: <Alfajorcito> no
-[22:47:38] [Server thread/INFO]: <Alfajorcito> 2 antorchas contra la pared buscamos
-[22:48:42] [Server thread/INFO]: <Alfajorcito> we pero on hay mas lava
-[22:48:45] [Server thread/INFO]: <Alfajorcito> donde concha me mori
-[22:48:54] [Server thread/INFO]: <Alfajorcito> empeze a correr como mongolo
-[22:48:58] [Server thread/INFO]: <Alfajorcito> pq me seguian4 zombis bebe
-[22:50:28] [Server thread/INFO]: <Alfajorcito> x ahi no?
-[22:50:33] [Server thread/INFO]: <Armando> mo
-[22:50:58] [Server thread/INFO]: <Armando> wow
-[22:51:02] [Server thread/INFO]: <Armando> mate al zombie
-[22:51:04] [Server thread/INFO]: <Armando> quedo el polloo
-[22:51:12] [Server thread/INFO]: <Alfajorcito> dios
-[22:51:14] [Server thread/INFO]: <Alfajorcito> hay demasiados bichos aca
-[22:52:08] [Server thread/INFO]: <Alfajorcito> aaa q pajaa
-[22:53:19] [Server thread/INFO]: <Alfajorcito> aa
-[22:53:34] [Server thread/INFO]: <Armando> ?
-[22:53:39] [Server thread/INFO]: <Alfajorcito> estaba testeando lajw
-[22:53:50] [Server thread/INFO]: <Alfajorcito> es que no tiene sentido
-[22:53:57] [Server thread/INFO]: <Alfajorcito> yo enter a corrrer como mongolo pero no rompi ningun bloque
-[22:54:00] [Server thread/INFO]: <Alfajorcito> puse antorchas y me mori
-[22:54:15] [Server thread/INFO]: <Alfajorcito> pero no se quemaron todas las cosas
-[22:55:10] [Server thread/INFO]: <Alfajorcito> ahora ni me acuerdopor donde vine
-[22:55:19] [Server thread/INFO]: <Armando> de ahi
-[22:55:52] [Server thread/INFO]: Armando was blown up by Creeper
-[22:55:54] [Server thread/WARN]: Armando moved too quickly! -486.8541098935849,51.099998474121094,-131.80000001192093
-[22:55:55] [Server thread/INFO]: <Alfajorcito> bieennn
-[22:55:56] [Server thread/INFO]: <Armando> UH
-[22:56:02] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:61555] logged in with entity id 42692 at (138.9728919662835, 69.0, -154.85594080409655)
-[22:56:02] [Server thread/INFO]: MAURIJAJAJA joined the game
-[22:56:05] [Server thread/INFO]: <Armando> explotan fuerte eh
-[22:56:08] [Server thread/INFO]: <Armando> toda la vida tenia
-[22:56:09] [Server thread/INFO]: Alfajorcito has made the advancement [Cover Me With Diamonds]
-[22:56:15] [Server thread/INFO]: <Alfajorcito> si
-[22:56:23] [Server thread/INFO]: <Alfajorcito> buen tottema
-[22:56:29] [Server thread/INFO]: <Armando> POSTA
-[22:56:47] [Server thread/INFO]: <Armando> ese si que tus ganas de revivir
-[22:57:02] [Server thread/INFO]: <Alfajorcito> sabes como venir?
-[22:57:07] [Server thread/INFO]: <Alfajorcito> el poso esta en 350 y 24
-[22:57:08] [Server thread/INFO]: <Armando> creo
-[22:57:11] [Server thread/INFO]: <Alfajorcito> tira un aguita ahi
-[22:57:12] [Server thread/INFO]: <Alfajorcito> y listo
-[22:57:18] [Server thread/INFO]: <Armando> no traje
-[22:57:20] [Server thread/INFO]: <Alfajorcito> JUAS
-[22:58:01] [Server thread/INFO]: <Armando> encontre
-[22:58:03] [Server thread/INFO]: <Armando> pero bueno
-[22:58:13] [Server thread/INFO]: <Armando> ya me las arregle
-[22:58:23] [Server thread/INFO]: Armando fell from a high place
-[22:58:26] [Server thread/INFO]: <Armando> uy
-[22:58:26] [Server thread/INFO]: <Alfajorcito> VOS DECIS
-[22:58:29] [Server thread/INFO]: <Armando> es que
-[22:58:34] [Server thread/INFO]: <Armando> el agua estaba bajando
-[22:58:39] [Server thread/INFO]: <Armando> yo baje mas rapido que el agua
-[22:58:39] [Server thread/INFO]: <Armando> xd
-[22:59:05] [Server thread/INFO]: <Alfajorcito> eso me pasa por salir con 40 de diamantes
-[23:00:06] [Server thread/INFO]: <Alfajorcito> igual yo me pregunto PQ eran tantos zombis
-[23:00:15] [Server thread/INFO]: <Armando> lol
-[23:00:17] [Server thread/INFO]: <Armando> me perdi
-[23:00:18] [Server thread/INFO]: <Armando> nv
-[23:00:19] [Server thread/INFO]: Armando was shot by Skeleton
-[23:00:25] [Server thread/INFO]: <Alfajorcito> 350 y 24
-[23:00:27] [Server thread/INFO]: <Alfajorcito> lleva un valde
-[23:00:35] [Server thread/INFO]: <Alfajorcito> y segui linea recta para la izquierda
-[23:00:48] [Server thread/INFO]: <Alfajorcito> igual
-[23:00:50] [Server thread/INFO]: <Alfajorcito> paso muchisimo tiempo
-[23:00:53] [Server thread/INFO]: <Alfajorcito> se re despawnearon las cosas
-[23:01:02] [Server thread/INFO]: <Armando> na si duran bocha en este server
-[23:01:05] [Server thread/INFO]: <Alfajorcito> vos deci
-[23:01:12] [Server thread/INFO]: <Alfajorcito> me trauma que no pueda encontrar
-[23:02:02] [Server thread/INFO]: <Alfajorcito> en realidad creo que duran hasta q se cierra
-[23:02:03] [Server thread/INFO]: <Armando> tenes mis cosas?
-[23:02:33] [Server thread/INFO]: <Armando> viste que necesitaba aprender a usar el totem
-[23:02:37] [Server thread/INFO]: <Alfajorcito> XD
-[23:03:04] [Server thread/INFO]: <Alfajorcito> we pero man
-[23:03:05] [Server thread/INFO]: <Armando> OLA
-[23:03:07] [Server thread/INFO]: <Alfajorcito> yo empeze a correr nomas
-[23:03:14] [Server thread/INFO]: <Alfajorcito> no trepe
-[23:03:17] [Server thread/INFO]: <Alfajorcito> pq no me daba el teimpo
-[23:03:20] [Server thread/INFO]: <Alfajorcito> corri para todos lados
-[23:03:44] [Server thread/INFO]: <Alfajorcito> dejame 1 pico
-[23:03:46] [Server thread/INFO]: <Alfajorcito> almenos x ahora
-[23:03:51] [Server thread/INFO]: <Alfajorcito> y toma estos 2 inutiles
-[23:04:03] [Server thread/INFO]: <Armando> te sigo ayudando
-[23:04:12] [Server thread/INFO]: <Alfajorcito> ty
-[23:04:14] [Server thread/INFO]: <Armando> no traje madera eso si
-[23:04:29] [Server thread/INFO]: <Armando> me voy a buscar eso y vuelvo
-[23:05:33] [Server thread/INFO]: <Alfajorcito> para q queres madera
-[23:05:45] [Server thread/INFO]: <Armando> para craftear otro pico
-[23:06:10] [Server thread/INFO]: <Armando> dijiste 2 antorchas juntas?
-[23:06:14] [Server thread/INFO]: <Alfajorcito> c
-[23:06:18] [Server thread/INFO]: <Armando> veni
-[23:06:20] [Server thread/INFO]: <Alfajorcito> aber
-[23:06:22] [Server thread/INFO]: <Alfajorcito> donde
-[23:06:23] [Server thread/INFO]: <Armando> no hay nada aca
-[23:06:26] [Server thread/INFO]: <Alfajorcito> donde
-[23:06:56] [Server thread/INFO]: <Alfajorcito> aber
-[23:06:57] [Server thread/INFO]: <Alfajorcito> si
-[23:06:58] [Server thread/INFO]: <Alfajorcito> aca fue
-[23:06:59] [Server thread/INFO]: <Alfajorcito> rip
-[23:07:03] [Server thread/INFO]: <Alfajorcito> me acuerdo de estas 2 antorchas
-[23:07:10] [Server thread/INFO]: <Alfajorcito> y en esa lavita de ahi se quemo un poco
-[23:07:30] [Server thread/INFO]: <Alfajorcito> y el resto
-[23:07:31] [Server thread/INFO]: <Armando> puse eso pq no habia nada ahi
-[23:07:31] [Server thread/INFO]: <Alfajorcito> expiro
-[23:07:34] [Server thread/INFO]: <Alfajorcito> pero era un fortuna 3
-[23:07:40] [Server thread/INFO]: <Armando> que paja eh
-[23:07:41] [Server thread/INFO]: <Alfajorcito> una pala full
-[23:07:45] [Server thread/INFO]: <Alfajorcito> y una espada full y otra con aspecto ardiente
-[23:07:47] [Server thread/INFO]: <Armando> no salgas sin escudo
-[23:07:48] [Server thread/INFO]: <Alfajorcito> mas 1 stack de diamatnes
-[23:07:49] [Server thread/INFO]: <Armando> y morfi
-[23:07:54] [Server thread/INFO]: <Alfajorcito> nada que no se pueda arreglar
-[23:08:03] [Server thread/INFO]: <Armando> em tenes madera'
-[23:08:04] [Server thread/INFO]: <Armando> ?
-[23:08:05] [Server thread/INFO]: <Alfajorcito> la csoa es q no me dio tiempo de ponerme el escudo
-[23:08:08] [Server thread/INFO]: <Alfajorcito> si mira
-[23:08:11] [Server thread/INFO]: <Alfajorcito> esa
-[23:08:13] [Server thread/INFO]: <Alfajorcito> nada mas
-[23:08:17] [Server thread/INFO]: <Alfajorcito> igual
-[23:08:20] [Server thread/INFO]: <Alfajorcito> podemos salir por donde ivnimos
-[23:08:42] [Server thread/INFO]: <Alfajorcito> sii seguir recto
-[23:08:44] [Server thread/INFO]: <Alfajorcito> hasta el final
-[23:08:44] [Server thread/INFO]: <Alfajorcito> salis
-[23:10:03] [Server thread/INFO]: <Armando> LOL
-[23:10:12] [Server thread/INFO]: <Alfajorcito> q
-[23:10:19] [Server thread/INFO]: <Armando> que ese tunel
-[23:10:22] [Server thread/INFO]: <Armando> no me llevo a la salida
-[23:10:23] [Server thread/INFO]: <Armando> xd
-[23:10:29] [Server thread/INFO]: <Alfajorcito> y a donde te llevo
-[23:10:36] [Server thread/INFO]: <Armando> a nueva pompella
-[23:10:44] [Server thread/INFO]: <Alfajorcito> imposible
-[23:11:00] [Server thread/INFO]: <Alfajorcito> lol
-[23:11:02] [Server thread/INFO]: <Alfajorcito> esta no es la salida
-[23:11:16] [Server thread/INFO]: <Alfajorcito> wtf
-[23:11:33] [Server thread/INFO]: <Alfajorcito> estoy perdido
-[23:12:05] [Server thread/INFO]: <Armando> y mira
-[23:12:09] [Server thread/INFO]: <Armando> mejor perdido
-[23:12:12] [Server thread/INFO]: <Armando> que en este bosque
-[23:12:34] [Server thread/INFO]: <Armando> la casa en cuanto etaba'
-[23:12:36] [Server thread/INFO]: <Armando> ??
-[23:12:53] [Server thread/INFO]: <Alfajorcito> ahi asli
-[23:12:58] [Server thread/INFO]: <Alfajorcito> 150 -150
-[23:13:21] [Server thread/INFO]: <Alfajorcito> ola
-[23:13:44] [Server thread/INFO]: <Alfajorcito> esta MINADO
-[23:14:07] [Server thread/INFO]: <Armando> ta rikisimo
-[23:14:11] [Server thread/INFO]: <Alfajorcito> wow
-[23:14:12] [Server thread/INFO]: <Alfajorcito> 2 ender
-[23:14:15] [Server thread/INFO]: <Armando> DONDE
-[23:14:20] [Server thread/INFO]: <Armando> daqueo 3
-[23:14:23] [Server thread/INFO]: <Alfajorcito> aca
-[23:14:26] [Server thread/INFO]: <Alfajorcito> -0
-[23:14:27] [Server thread/INFO]: <Alfajorcito> 200
-[23:14:30] [Server thread/INFO]: <Alfajorcito> 200 -0*
-[23:14:33] [Server thread/INFO]: <Alfajorcito> aca
-[23:14:47] [Server thread/INFO]: <Alfajorcito> aa
-[23:14:55] [Server thread/INFO]: <Armando> pera que me cure
-[23:15:05] [Server thread/INFO]: <Alfajorcito> 2
-[23:15:06] [Server thread/INFO]: <Alfajorcito> rico
-[23:15:37] [Server thread/INFO]: <Alfajorcito> y el otro
-[23:15:41] [Server thread/INFO]: <Armando> lo vi tepearse
-[23:16:01] [Server thread/INFO]: <Alfajorcito> aca
-[23:16:02] [Server thread/INFO]: <Alfajorcito> lo vi
-[23:16:04] [Server thread/INFO]: <Alfajorcito> aca
-[23:16:19] [Server thread/INFO]: <Alfajorcito> lo mire
-[23:16:19] [Server thread/INFO]: <Armando> LOL
-[23:16:20] [Server thread/INFO]: <Alfajorcito> Xd
-[23:16:25] [Server thread/INFO]: <Alfajorcito> jaja
-[23:16:42] [Server thread/INFO]: <Armando> LOL
-[23:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[23:16:43] [Server thread/INFO]: <Armando> tengo 4
-[23:16:45] [Server thread/INFO]: <Alfajorcito> rico
-[23:16:46] [Server thread/INFO]: <Armando> me tiraste las 2?
-[23:17:04] [Server thread/INFO]: <Armando> lol
-[23:17:20] [Server thread/INFO]: <Alfajorcito> aber
-[23:17:20] [Server thread/INFO]: <Armando> biem
-[23:17:23] [Server thread/INFO]: <Armando> la muralla
-[23:18:25] [Server thread/INFO]: <Alfajorcito> weno
-[23:18:27] [Server thread/INFO]: <Alfajorcito> a reproducir
-[23:18:37] [Server thread/INFO]: <Alfajorcito> necesito hacerme todo de nuevo
-[23:19:06] [Server thread/INFO]: <Armando> unas ganas de the forest tenia
-[23:19:11] [Server thread/INFO]: <Alfajorcito> con q bigote
-[23:19:32] [Server thread/INFO]: <Alfajorcito> si perdi la aspecto ardiente ´:(
-[23:19:40] [Server thread/INFO]: <Armando> we felipe
-[23:19:43] [Server thread/INFO]: <Armando> 2 perlas mas
-[23:19:49] [Server thread/INFO]: <Armando> y nos vamos a nueva pompella
-[23:20:17] [Server thread/INFO]: <Armando> ramiro tiene casa¿
-[23:20:20] [Server thread/INFO]: <Alfajorcito> c
-[23:20:20] [Server thread/INFO]: <Armando> por ahi el tiene una perla
-[23:20:25] [Server thread/INFO]: <Alfajorcito> afuera
-[23:20:59] [Server thread/INFO]: <Armando> no tiene
-[23:21:07] [Server thread/INFO]: <Armando> mauri
-[23:21:14] [Server thread/INFO]: <Armando> vos
-[23:21:16] [Server thread/INFO]: <Alfajorcito> laaj
-[23:21:17] [Server thread/INFO]: <Armando> tenes?
-[23:21:17] [Server thread/INFO]: <MAURIJAJAJA> nop
-[23:21:18] [Server thread/INFO]: <Alfajorcito> reee lajj
-[23:22:10] [Server thread/INFO]: <Armando> falta 1 perla
-[23:22:14] [Server thread/INFO]: <Armando> que bajonn
-[23:22:38] [Server thread/INFO]: <Alfajorcito> con la elytra
-[23:22:43] [Server thread/INFO]: <Alfajorcito> voy a buscar demasiados diamantes
-[23:22:47] [Server thread/INFO]: <Alfajorcito> pq me puedo ir re lejos re rapido
-[23:22:52] [Server thread/INFO]: <Alfajorcito> y no tener q hacer todo ese tunel
-[23:22:58] [Server thread/INFO]: <Armando> como soñas con esa verga eh
-[23:22:59] [Server thread/INFO]: <Armando> xd
-[23:23:11] [Server thread/INFO]: <Alfajorcito> de verga no tiene nada
-[23:23:11] [Server thread/INFO]: Armando has made the advancement [Isn't It Iron Pick]
-[23:23:23] [Server thread/INFO]: <Alfajorcito> ISNT IT IRON PICK
-[23:24:41] [Server thread/INFO]: <Alfajorcito> NO
-[23:24:42] [Server thread/INFO]: <Alfajorcito> EL HACHA
-[23:24:46] [Server thread/INFO]: <Alfajorcito> CONCHA DE LA LORA TODO PERDI XD
-[23:25:03] [Server thread/INFO]: <Alfajorcito> efi 4 dur 3
-[23:25:07] [Server thread/INFO]: <Alfajorcito> y fortuna 3 el hacha
-[23:25:23] [Server thread/INFO]: <Alfajorcito> pinto hacer una granja de exp o nqv armando
-[23:25:26] [Server thread/INFO]: <Alfajorcito> con el spawner
-[23:25:43] [Server thread/INFO]: <Armando> cualk?
-[23:25:47] [Server thread/INFO]: <Alfajorcito> el de zombis
-[23:25:51] [Server thread/INFO]: <Armando> donde?
-[23:25:54] [Server thread/INFO]: <Alfajorcito> AH BUENO
-[23:25:56] [Server thread/INFO]: <Alfajorcito> ARMADNO
-[23:25:58] [Server thread/INFO]: <Alfajorcito> LA CONCHA DE TU MADRE
-[23:26:03] [Server thread/INFO]: <Alfajorcito> sos requete ciego
-[23:26:07] [Server thread/INFO]: <Alfajorcito> queres que te lleve a donde es?
-[23:26:12] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
-[23:26:12] [Server thread/INFO]: MAURIJAJAJA left the game
-[23:26:14] [Server thread/INFO]: <Alfajorcito> te vas a traumar
-[23:26:22] [Server thread/INFO]: <Alfajorcito> no se como no lo viste
-[23:26:52] [Server thread/INFO]: <Alfajorcito> quien hizo que todas las ovejas sean de river
-[23:26:57] [Server thread/INFO]: <Armando> ni idea
-[23:27:01] [Server thread/INFO]: <Armando> yo recien entre
-[23:27:03] [Server thread/INFO]: <Armando> Xd
-[23:27:14] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:61604] logged in with entity id 73843 at (139.95655882189763, 59.0, -160.189860728884)
-[23:27:14] [Server thread/INFO]: MAURIJAJAJA joined the game
-[23:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[23:27:40] [Server thread/INFO]: <Alfajorcito> aa
-[23:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4619ms or 92 ticks behind
-[23:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
-[23:28:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[23:28:29] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
-[23:28:29] [Server thread/INFO]: MAURIJAJAJA left the game
-[23:28:33] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[23:28:33] [Server thread/INFO]: Alfajorcito left the game
-[23:29:15] [Server thread/INFO]: Alfajorcito[/25.73.242.60:52270] logged in with entity id 74348 at (148.0548303662208, 49.0, -166.6025776359533)
-[23:29:15] [Server thread/INFO]: Alfajorcito joined the game
-[23:29:23] [Server thread/INFO]: <Alfajorcito> aa
-[23:29:29] [Server thread/INFO]: <Alfajorcito> proban do uno dos tres
-[23:29:55] [Server thread/INFO]: <Alfajorcito> a
-[23:30:04] [Server thread/INFO]: <Alfajorcito> >:'V
-[23:31:03] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[23:31:03] [Server thread/INFO]: Alfajorcito left the game
-[23:32:37] [Server thread/INFO]: Alfajorcito[/25.73.242.60:52286] logged in with entity id 74538 at (140.58779366935704, 49.0, -166.90923221939022)
-[23:32:37] [Server thread/INFO]: Alfajorcito joined the game
-[23:32:43] [Server thread/INFO]: <Alfajorcito> aaa
-[23:35:53] [Server thread/INFO]: <Alfajorcito> aa
-[23:35:54] [Server thread/INFO]: <Alfajorcito> :O
-[23:35:57] [Server thread/INFO]: <Alfajorcito> :'D
-[23:36:06] [Server thread/WARN]: Alfajorcito moved too quickly! -7.73335676085668,6.5,-0.537363746425342
-[23:37:54] [Server thread/INFO]: <Alfajorcito> aa
-[23:37:58] [Server thread/INFO]: <Alfajorcito> >:(
-[23:39:18] [Server thread/INFO]: <Alfajorcito> a
-[23:41:32] [Server thread/INFO]: Armando has made the advancement [Into Fire]
-[23:42:06] [Server thread/INFO]: Armando has made the advancement [We Need to Go Deeper]
-[23:42:19] [Server thread/INFO]: <Alfajorcito> we need to go dipa
-[23:42:27] [Server thread/INFO]: <Alfajorcito> aa
-[23:42:29] [Server thread/INFO]: <Alfajorcito> bb c
-[23:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[23:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[23:43:26] [Server thread/INFO]: Armando lost connection: Disconnected
-[23:43:26] [Server thread/INFO]: Armando left the game
-[23:44:45] [Server thread/INFO]: Armando[/127.0.0.1:49643] logged in with entity id 77235 at (-52.003381056377236, 41.0, -14.446967179348416)
-[23:44:45] [Server thread/INFO]: Armando joined the game
-[23:45:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[23:45:28] [Server thread/INFO]: <Armando> ahhh
-[23:45:31] [Server thread/INFO]: <Alfajorcito> guita
-[23:45:32] [Server thread/INFO]: <Armando> asi que asi se usa el totem
-[23:45:37] [Server thread/INFO]: <Alfajorcito> como
-[23:45:42] [Server thread/INFO]: <Alfajorcito> tenes q tenerlo en la mano?
-[23:45:45] [Server thread/INFO]: <Armando> si
-[23:45:48] [Server thread/INFO]: <Armando> en la izquierda
-[23:46:00] [Server thread/INFO]: <Alfajorcito> rico
-[23:46:08] [Server thread/INFO]: <Alfajorcito> como si fuera una cruz xddd
-[23:46:36] [Server thread/INFO]: <Alfajorcito> alguien se robo la azada
-[23:46:39] [Server thread/INFO]: <Alfajorcito> sin azada no hay replantado
-[23:47:33] [Server thread/INFO]: Armando lost connection: Disconnected
-[23:47:33] [Server thread/INFO]: Armando left the game
-[23:48:45] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[23:48:45] [Server thread/INFO]: Alfajorcito left the game
-[23:49:01] [Server thread/INFO]: Alfajorcito[/25.73.242.60:52356] logged in with entity id 79143 at (151.52165711784878, 49.0, -160.17549659533034)
-[23:49:01] [Server thread/INFO]: Alfajorcito joined the game
-[23:50:54] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[23:50:54] [Server thread/INFO]: Alfajorcito left the game
-[23:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[09:51:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 4%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 8%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 12%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 16%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 20%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 24%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 28%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 32%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 36%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 40%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 44%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 48%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 52%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 56%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 60%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 64%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 68%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 72%
+[09:51:02] [Server thread/INFO]: Preparing spawn area: 76%
+[09:51:03] [Server thread/INFO]: Preparing spawn area: 80%
+[09:51:03] [Server thread/INFO]: Preparing spawn area: 84%
+[09:51:03] [Server thread/INFO]: Preparing spawn area: 88%
+[09:51:03] [Server thread/INFO]: Preparing spawn area: 92%
+[09:51:03] [Server thread/INFO]: Preparing spawn area: 96%
+[09:51:03] [Server thread/INFO]: Preparing spawn area: 100%
+[09:51:03] [Server thread/INFO]: Time elapsed: 1499 ms
+[09:51:03] [Server thread/INFO]: Done (2.948s)! For help, type "help"
+[09:51:06] [Server thread/INFO]: Armando[/127.0.0.1:49965] logged in with entity id 1259 at (109.69775077675453, 65.0, -164.34545594175157)
+[09:51:06] [Server thread/INFO]: Armando joined the game
+[09:51:50] [Server thread/INFO]: Gave 64 [Blaze Rod] to Armando
+[09:52:06] [Server thread/INFO]: Armando lost connection: Disconnected
+[09:52:06] [Server thread/INFO]: Armando left the game
+[09:52:10] [Server thread/INFO]: Armando[/127.0.0.1:49969] logged in with entity id 1403 at (112.67037148987369, 67.0, -167.28196568789554)
+[09:52:10] [Server thread/INFO]: Armando joined the game
+[09:53:36] [Server thread/INFO]: [Armando: Applied enchantment Infinity to Armando's item]
+[09:54:51] [Server thread/INFO]: [Armando: Applied enchantment Looting III to Armando's item]
+[09:58:08] [Server thread/INFO]: [Armando: Applied enchantment Sharpness I to Armando's item]
+[09:59:58] [Server thread/INFO]: [Armando: Applied enchantment Infinity to Armando's item]
+[10:00:06] [Server thread/INFO]: [Armando: Applied enchantment Power III to Armando's item]
+[10:01:53] [Server thread/INFO]: [Armando: Gave 1 [Book] to Armando]
+[10:03:32] [Server thread/INFO]: [Armando: Gave 64 [Book] to Armando]
+[10:05:09] [Server thread/INFO]: [Armando: Gave 64 [Lapis Lazuli] to Armando]
+[10:06:56] [Server thread/INFO]: [Armando: Gave 1 experience points to Armando]
+[10:07:01] [Server thread/INFO]: [Armando: Gave 1 experience points to Armando]
+[10:07:06] [Server thread/INFO]: [Armando: Gave 1 experience levels to Armando]
+[10:09:21] [Server thread/INFO]: [Armando: Gave 60 experience levels to Armando]
+[10:11:13] [Server thread/INFO]: Armando lost connection: Disconnected
+[10:11:13] [Server thread/INFO]: Armando left the game
+[10:11:23] [Server thread/INFO]: Incorrect argument for command
+[10:11:23] [Server thread/INFO]: gamemode 1<--[HERE]
+[10:11:26] [Server thread/INFO]: Unknown command
+[10:11:26] [Server thread/INFO]: <--[HERE]
+[10:12:14] [Server thread/INFO]: Armando[/127.0.0.1:50030] logged in with entity id 6792 at (-19.169374250912846, 30.981420459055183, -41.90673634125447)
+[10:12:14] [Server thread/INFO]: Armando joined the game
+[10:12:17] [Server thread/INFO]: [Armando: Set own game mode to Creative Mode]
+[10:12:25] [Server thread/INFO]: [Armando: Set own game mode to Survival Mode]
+[10:12:34] [Server thread/INFO]: Armando has made the advancement [Hot Stuff]
+[10:13:56] [Server thread/INFO]: [Armando: Gave 1 [Lava Bucket] to Armando]
+[10:15:31] [Server thread/INFO]: Unknown command
+[10:15:31] [Server thread/INFO]: oped Armando<--[HERE]
+[10:15:33] [Server thread/INFO]: Armando drowned
+[10:15:50] [Server thread/INFO]: Unknown command
+[10:15:50] [Server thread/INFO]: oped Armandodeop Armando<--[HERE]
+[10:16:11] [Server thread/INFO]: Made Armando no longer a server operator
+[10:16:16] [Server thread/INFO]: Armando lost connection: Disconnected
+[10:16:16] [Server thread/INFO]: Armando left the game
+[10:16:18] [Server thread/INFO]: Armando[/127.0.0.1:50055] logged in with entity id 9321 at (114.76283168503686, 65.0, -168.05176707471298)
+[10:16:18] [Server thread/INFO]: Armando joined the game
+[10:20:02] [Server thread/INFO]: Armando has made the advancement [Local Brewery]
+[10:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3854ms or 77 ticks behind
+[10:51:23] [Server thread/INFO]: Armando has made the advancement [Eye Spy]
+[10:52:02] [Server thread/INFO]: Armando lost connection: Disconnected
+[10:52:02] [Server thread/INFO]: Armando left the game
