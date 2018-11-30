@@ -1,25 +1,25 @@
-[13:20:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:20:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:20:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:20:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:20:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:20:12] [main/INFO]: Loaded 0 recipes
-[13:20:12] [main/INFO]: Loaded 0 advancements
-[13:20:12] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[13:20:12] [Server thread/INFO]: Loading properties
-[13:20:12] [Server thread/INFO]: Default game type: SURVIVAL
-[13:20:12] [Server thread/INFO]: Generating keypair
-[13:20:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:20:12] [Server thread/INFO]: Using default channel type
-[13:20:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:20:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:20:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:20:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:20:13] [Server thread/INFO]: Preparing level "world"
-[13:20:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:20:14] [Server thread/INFO]: Loaded 524 recipes
-[13:20:14] [Server thread/INFO]: Loaded 571 advancements
-[13:20:14] [Server thread/ERROR]: Error loading saved data: villages
+[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:26:11] [main/INFO]: Loaded 0 recipes
+[15:26:11] [main/INFO]: Loaded 0 advancements
+[15:26:11] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[15:26:11] [Server thread/INFO]: Loading properties
+[15:26:11] [Server thread/INFO]: Default game type: SURVIVAL
+[15:26:11] [Server thread/INFO]: Generating keypair
+[15:26:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:26:11] [Server thread/INFO]: Using default channel type
+[15:26:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:26:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:26:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:26:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:26:12] [Server thread/INFO]: Preparing level "world"
+[15:26:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:26:13] [Server thread/INFO]: Loaded 524 recipes
+[15:26:13] [Server thread/INFO]: Loaded 571 advancements
+[15:26:13] [Server thread/ERROR]: Error loading saved data: villages
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -35,7 +35,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[13:20:14] [Server thread/ERROR]: Error loading saved data: villages_nether
+[15:26:13] [Server thread/ERROR]: Error loading saved data: villages_nether
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -51,7 +51,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[13:20:14] [Server thread/ERROR]: Error loading saved data: villages_end
+[15:26:13] [Server thread/ERROR]: Error loading saved data: villages_end
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -67,56 +67,59 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[13:20:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 4%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 8%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 12%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 16%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 20%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 24%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 28%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 32%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 36%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 40%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 44%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 48%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 52%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 56%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 60%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 64%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 68%
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 72%
-[13:20:15] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
-[13:20:15] [Server thread/INFO]: Preparing spawn area: 76%
-[13:20:16] [Server thread/INFO]: Preparing spawn area: 80%
-[13:20:16] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
-[13:20:16] [Server thread/INFO]: Preparing spawn area: 84%
-[13:20:16] [Server thread/INFO]: Preparing spawn area: 88%
-[13:20:16] [Server thread/INFO]: Preparing spawn area: 92%
-[13:20:16] [Server thread/INFO]: Preparing spawn area: 96%
-[13:20:16] [Server thread/INFO]: Preparing spawn area: 100%
-[13:20:16] [Server thread/INFO]: Time elapsed: 1508 ms
-[13:20:16] [Server thread/INFO]: Done (2.857s)! For help, type "help"
-[13:20:17] [Server thread/INFO]: Armando[/127.0.0.1:50599] logged in with entity id 912 at (99.74502685842333, 49.0, 0.13155783010836875)
-[13:20:17] [Server thread/INFO]: Armando joined the game
-[13:20:17] [Server thread/WARN]: Keeping entity minecraft:enderman that already exists with UUID 51fb3b5b-a82c-4684-b811-dabab028eeeb
-[13:20:17] [Server thread/WARN]: Keeping entity minecraft:enderman that already exists with UUID d9f7c9dc-3507-46df-acc1-386ab953af9b
-[13:20:18] [Server thread/WARN]: Keeping entity minecraft:enderman that already exists with UUID 112dc3de-21e6-4da1-90f9-e352bae71e52
-[13:20:18] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[13:20:18] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[13:20:33] [Server thread/INFO]: Made Armando a server operator
-[13:20:42] [Server thread/INFO]: [Armando: Set own game mode to Adventure Mode]
-[13:20:48] [Server thread/INFO]: [Armando: Set own game mode to Creative Mode]
-[13:23:07] [Server thread/INFO]: [Armando: Teleported Armando to 3704.5, 100.0, 304.5]
-[13:23:27] [Server thread/INFO]: [Armando: Teleported Armando to 3287.5, 100.0, 8.5]
-[13:23:29] [Server thread/WARN]: Armando moved too quickly! 0.0,-11.281725006748388,0.0
-[13:23:29] [Server thread/INFO]: [Armando: Teleported Armando to 3287.5, 100.0, 84.5]
-[13:25:47] [Server thread/INFO]: [Armando: Gamerule keepInventory is now set to: true]
-[13:25:59] [Server thread/INFO]: Armando fell out of the world
-[13:26:12] [Server thread/INFO]: [Armando: Set own game mode to Survival Mode]
-[13:26:23] [Server thread/INFO]: [Armando: Set own game mode to Creative Mode]
-[13:26:40] [Server thread/INFO]: [Armando: Set own game mode to Survival Mode]
-[13:26:57] [Server thread/INFO]: [Armando: Gamerule keepInventory is now set to: false]
-[13:27:05] [Server thread/INFO]: Armando lost connection: Disconnected
-[13:27:05] [Server thread/INFO]: Armando left the game
-[13:27:20] [Server thread/INFO]: Made Armando no longer a server operator
+[15:26:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 4%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 8%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 12%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 16%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 20%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 24%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 28%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 32%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 36%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 40%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 44%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 48%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 52%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 56%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 60%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 64%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 68%
+[15:26:14] [Server thread/INFO]: Preparing spawn area: 72%
+[15:26:15] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 76%
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 80%
+[15:26:15] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 84%
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 88%
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 92%
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 96%
+[15:26:15] [Server thread/INFO]: Preparing spawn area: 100%
+[15:26:15] [Server thread/INFO]: Time elapsed: 1434 ms
+[15:26:15] [Server thread/INFO]: Done (2.888s)! For help, type "help"
+[15:26:18] [Server thread/INFO]: Armando[/127.0.0.1:50858] logged in with entity id 915 at (83.43176265470666, 64.1212968405392, -152.14582516921942)
+[15:26:18] [Server thread/INFO]: Armando joined the game
+[15:27:50] [Server thread/INFO]: Alfajorcito[/25.73.242.60:53982] logged in with entity id 1823 at (147.4989464254309, 49.0, -165.62129391346528)
+[15:27:50] [Server thread/INFO]: Alfajorcito joined the game
+[15:27:59] [Server thread/INFO]: <Alfajorcito> aa
+[15:28:16] [Server thread/INFO]: <Alfajorcito> aa
+[15:28:42] [Server thread/INFO]: <Alfajorcito> aa
+[15:28:43] [Server thread/INFO]: <Alfajorcito> aa
+[15:30:43] [Server thread/INFO]: <Alfajorcito> aa
+[15:31:22] [Server thread/INFO]: <Alfajorcito> aa
+[15:31:29] [Server thread/INFO]: Alfajorcito has reached the goal [Sky's the Limit]
+[15:52:03] [Server thread/INFO]: Armando has reached the goal [Postmortal]
+[15:58:08] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[16:00:04] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[16:00:06] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d4a953bc-43d5-4c41-b5f4-c0a0353f50db
+[16:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[16:00:12] [Server thread/INFO]: <Armando> 59
+[16:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[16:01:05] [Server thread/INFO]: <Armando> 173 -198
+[16:01:44] [Server thread/INFO]: <Armando> 173 -120
+[16:02:27] [Server thread/INFO]: <Armando> 59 -120
+[16:03:04] [Server thread/INFO]: <Armando> 59 -198
+[16:32:33] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[16:32:33] [Server thread/INFO]: Alfajorcito left the game
+[16:34:17] [Server thread/INFO]: Armando lost connection: Disconnected
+[16:34:17] [Server thread/INFO]: Armando left the game

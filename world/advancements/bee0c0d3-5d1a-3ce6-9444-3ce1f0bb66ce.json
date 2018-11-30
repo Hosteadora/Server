@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-11-30 16:06:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-28 16:40:14 -0300"
@@ -218,6 +224,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2018-11-28 16:40:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-11-30 15:31:29 -0300"
     },
     "done": true
   },
@@ -831,8 +843,9 @@
       "minecraft:enderman": "2018-11-28 15:17:27 -0300",
       "minecraft:spider": "2018-11-28 13:26:42 -0300",
       "minecraft:zombie": "2018-11-28 11:33:56 -0300",
+      "minecraft:creeper": "2018-11-28 13:07:09 -0300",
       "minecraft:drowned": "2018-11-28 16:40:10 -0300",
-      "minecraft:creeper": "2018-11-28 13:07:09 -0300"
+      "minecraft:zombie_villager": "2018-11-30 16:21:37 -0300"
     },
     "done": false
   },
@@ -905,6 +918,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-28 14:53:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2018-11-30 16:05:49 -0300"
     },
     "done": true
   },
@@ -1179,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2018-11-30 16:18:15 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2018-11-28 14:06:54 -0300"
@@ -1314,6 +1339,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2018-11-28 16:21:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-11-30 16:18:15 -0300"
     },
     "done": true
   },
@@ -1517,14 +1548,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-11-29 22:47:31 -0300",
+      "minecraft:jungle_edge": "2018-11-30 16:12:48 -0300",
+      "minecraft:cold_ocean": "2018-11-30 15:59:02 -0300",
       "minecraft:mountains": "2018-11-28 16:54:51 -0300",
+      "minecraft:forest": "2018-11-29 22:47:31 -0300",
+      "minecraft:taiga": "2018-11-30 16:02:23 -0300",
+      "minecraft:deep_cold_ocean": "2018-11-30 15:59:12 -0300",
+      "minecraft:taiga_hills": "2018-11-30 16:04:07 -0300",
+      "minecraft:jungle": "2018-11-30 16:13:06 -0300",
       "minecraft:birch_forest": "2018-11-28 15:34:36 -0300",
+      "minecraft:jungle_hills": "2018-11-30 16:29:12 -0300",
       "minecraft:beach": "2018-11-28 11:16:45 -0300",
       "minecraft:dark_forest": "2018-11-28 11:16:49 -0300",
-      "minecraft:lukewarm_ocean": "2018-11-28 16:49:55 -0300",
       "minecraft:river": "2018-11-28 11:16:46 -0300",
+      "minecraft:lukewarm_ocean": "2018-11-28 16:49:55 -0300",
       "minecraft:birch_forest_hills": "2018-11-28 15:31:19 -0300",
+      "minecraft:wooded_hills": "2018-11-30 16:04:56 -0300",
+      "minecraft:stone_shore": "2018-11-30 16:00:46 -0300",
       "minecraft:swamp": "2018-11-28 15:26:10 -0300",
       "minecraft:plains": "2018-11-28 11:17:09 -0300"
     },
@@ -1557,6 +1597,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-11-28 14:06:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2018-11-30 16:05:46 -0300"
     },
     "done": true
   },
@@ -1656,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-11-30 15:37:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-11-28 11:31:41 -0300"
@@ -1737,6 +1789,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-28 14:53:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2018-11-30 16:18:14 -0300"
     },
     "done": true
   },
