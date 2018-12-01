@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-11-30 20:52:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-11-29 22:16:37 -0300"
@@ -329,9 +335,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-11-30 20:52:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2018-11-29 22:53:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2018-11-30 18:55:32 -0300"
     },
     "done": true
   },
@@ -477,6 +495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-11-30 20:52:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-11-28 15:08:45 -0300"
@@ -528,6 +552,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-11-28 14:24:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2018-11-30 18:55:32 -0300"
     },
     "done": true
   },
@@ -741,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-11-30 20:52:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2018-11-28 11:16:08 -0300"
@@ -841,6 +877,7 @@
     "criteria": {
       "minecraft:skeleton": "2018-11-28 14:12:55 -0300",
       "minecraft:enderman": "2018-11-28 15:17:27 -0300",
+      "minecraft:silverfish": "2018-11-30 18:56:31 -0300",
       "minecraft:spider": "2018-11-28 13:26:42 -0300",
       "minecraft:zombie": "2018-11-28 11:33:56 -0300",
       "minecraft:creeper": "2018-11-28 13:07:09 -0300",
@@ -1162,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-11-30 20:52:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2018-11-28 11:31:41 -0300"
@@ -1243,6 +1286,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-11-28 16:21:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2018-11-30 19:05:03 -0300"
     },
     "done": true
   },
@@ -1426,6 +1475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2018-11-30 18:19:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-11-28 13:06:38 -0300"
@@ -1546,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2018-11-30 20:52:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2018-11-30 16:12:48 -0300",
@@ -1563,6 +1624,7 @@
       "minecraft:river": "2018-11-28 11:16:46 -0300",
       "minecraft:lukewarm_ocean": "2018-11-28 16:49:55 -0300",
       "minecraft:birch_forest_hills": "2018-11-28 15:31:19 -0300",
+      "minecraft:wooded_mountains": "2018-11-30 18:42:58 -0300",
       "minecraft:wooded_hills": "2018-11-30 16:04:56 -0300",
       "minecraft:stone_shore": "2018-11-30 16:00:46 -0300",
       "minecraft:swamp": "2018-11-28 15:26:10 -0300",
@@ -1879,6 +1941,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-28 14:53:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-11-30 20:52:46 -0300"
     },
     "done": true
   }

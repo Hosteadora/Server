@@ -1,25 +1,25 @@
-[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:26:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:26:11] [main/INFO]: Loaded 0 recipes
-[15:26:11] [main/INFO]: Loaded 0 advancements
-[15:26:11] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[15:26:11] [Server thread/INFO]: Loading properties
-[15:26:11] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:11] [Server thread/INFO]: Generating keypair
-[15:26:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:11] [Server thread/INFO]: Using default channel type
-[15:26:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:26:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:26:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:26:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:26:12] [Server thread/INFO]: Preparing level "world"
-[15:26:12] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:26:13] [Server thread/INFO]: Loaded 524 recipes
-[15:26:13] [Server thread/INFO]: Loaded 571 advancements
-[15:26:13] [Server thread/ERROR]: Error loading saved data: villages
+[18:07:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:07:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:07:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:07:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:07:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:07:07] [main/INFO]: Loaded 0 recipes
+[18:07:07] [main/INFO]: Loaded 0 advancements
+[18:07:07] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[18:07:07] [Server thread/INFO]: Loading properties
+[18:07:08] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:08] [Server thread/INFO]: Generating keypair
+[18:07:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:09] [Server thread/INFO]: Using default channel type
+[18:07:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:07:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:07:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:07:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:07:09] [Server thread/INFO]: Preparing level "world"
+[18:07:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:07:10] [Server thread/INFO]: Loaded 524 recipes
+[18:07:11] [Server thread/INFO]: Loaded 571 advancements
+[18:07:11] [Server thread/ERROR]: Error loading saved data: villages
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -35,7 +35,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[15:26:13] [Server thread/ERROR]: Error loading saved data: villages_nether
+[18:07:11] [Server thread/ERROR]: Error loading saved data: villages_nether
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -51,7 +51,7 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[15:26:13] [Server thread/ERROR]: Error loading saved data: villages_end
+[18:07:11] [Server thread/ERROR]: Error loading saved data: villages_end
 java.util.zip.ZipException: Not in GZIP format
 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source) ~[?:1.8.0_191]
 	at java.util.zip.GZIPInputStream.<init>(Unknown Source) ~[?:1.8.0_191]
@@ -67,59 +67,429 @@ java.util.zip.ZipException: Not in GZIP format
 	at so.d(SourceFile:251) [server.jar:?]
 	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[15:26:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 4%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 8%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 12%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 16%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 20%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 24%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 28%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 32%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 36%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 40%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 44%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 48%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 52%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 56%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 60%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 64%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 68%
-[15:26:14] [Server thread/INFO]: Preparing spawn area: 72%
-[15:26:15] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 76%
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 80%
-[15:26:15] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 84%
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 88%
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 92%
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 96%
-[15:26:15] [Server thread/INFO]: Preparing spawn area: 100%
-[15:26:15] [Server thread/INFO]: Time elapsed: 1434 ms
-[15:26:15] [Server thread/INFO]: Done (2.888s)! For help, type "help"
-[15:26:18] [Server thread/INFO]: Armando[/127.0.0.1:50858] logged in with entity id 915 at (83.43176265470666, 64.1212968405392, -152.14582516921942)
-[15:26:18] [Server thread/INFO]: Armando joined the game
-[15:27:50] [Server thread/INFO]: Alfajorcito[/25.73.242.60:53982] logged in with entity id 1823 at (147.4989464254309, 49.0, -165.62129391346528)
-[15:27:50] [Server thread/INFO]: Alfajorcito joined the game
-[15:27:59] [Server thread/INFO]: <Alfajorcito> aa
-[15:28:16] [Server thread/INFO]: <Alfajorcito> aa
-[15:28:42] [Server thread/INFO]: <Alfajorcito> aa
-[15:28:43] [Server thread/INFO]: <Alfajorcito> aa
-[15:30:43] [Server thread/INFO]: <Alfajorcito> aa
-[15:31:22] [Server thread/INFO]: <Alfajorcito> aa
-[15:31:29] [Server thread/INFO]: Alfajorcito has reached the goal [Sky's the Limit]
-[15:52:03] [Server thread/INFO]: Armando has reached the goal [Postmortal]
-[15:58:08] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
-[16:00:04] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
-[16:00:06] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d4a953bc-43d5-4c41-b5f4-c0a0353f50db
-[16:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
-[16:00:12] [Server thread/INFO]: <Armando> 59
-[16:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
-[16:01:05] [Server thread/INFO]: <Armando> 173 -198
-[16:01:44] [Server thread/INFO]: <Armando> 173 -120
-[16:02:27] [Server thread/INFO]: <Armando> 59 -120
-[16:03:04] [Server thread/INFO]: <Armando> 59 -198
-[16:32:33] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
-[16:32:33] [Server thread/INFO]: Alfajorcito left the game
-[16:34:17] [Server thread/INFO]: Armando lost connection: Disconnected
-[16:34:17] [Server thread/INFO]: Armando left the game
+[18:07:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:07:12] [Server thread/INFO]: Preparing spawn area: 4%
+[18:07:12] [Server thread/INFO]: Preparing spawn area: 8%
+[18:07:12] [Server thread/INFO]: Preparing spawn area: 12%
+[18:07:12] [Server thread/INFO]: Preparing spawn area: 16%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 20%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 24%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 28%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 32%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 36%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 40%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 44%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 48%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 52%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 56%
+[18:07:13] [Server thread/INFO]: Preparing spawn area: 60%
+[18:07:14] [Server thread/INFO]: Preparing spawn area: 64%
+[18:07:14] [Server thread/INFO]: Preparing spawn area: 68%
+[18:07:14] [Server thread/INFO]: Preparing spawn area: 72%
+[18:07:14] [Server thread/INFO]: Preparing spawn area: 76%
+[18:07:14] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[18:07:15] [Server thread/INFO]: Preparing spawn area: 80%
+[18:07:15] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[18:07:15] [Server thread/INFO]: Preparing spawn area: 84%
+[18:07:15] [Server thread/INFO]: Preparing spawn area: 88%
+[18:07:15] [Server thread/INFO]: Preparing spawn area: 92%
+[18:07:15] [Server thread/INFO]: Preparing spawn area: 96%
+[18:07:16] [Server thread/INFO]: Preparing spawn area: 100%
+[18:07:16] [Server thread/INFO]: Time elapsed: 4616 ms
+[18:07:16] [Server thread/INFO]: Done (6.174s)! For help, type "help"
+[18:07:47] [Server thread/INFO]: MAURIJAJAJA[/25.11.115.103:64274] logged in with entity id 725 at (137.30000001192093, 69.0, -164.80071530333913)
+[18:07:47] [Server thread/INFO]: MAURIJAJAJA joined the game
+[18:07:48] [Server thread/INFO]: Armando[/127.0.0.1:49277] logged in with entity id 790 at (144.62069791732037, 48.0, -122.49409214510996)
+[18:07:48] [Server thread/INFO]: Armando joined the game
+[18:09:41] [Server thread/INFO]: vijote[/25.65.117.95:54657] logged in with entity id 1619 at (113.63845464745498, 65.0, -163.91363265672078)
+[18:09:41] [Server thread/INFO]: vijote joined the game
+[18:11:22] [Server thread/INFO]: <Armando> vigote
+[18:11:24] [Server thread/INFO]: <Armando> mira el wapo
+[18:11:27] [Server thread/INFO]: <Armando> para laburar
+[18:11:34] [Server thread/INFO]: <vijote> wi
+[18:11:35] [Server thread/INFO]: <vijote> q waso
+[18:11:49] [Server thread/INFO]: <Armando> veni a 59 -198
+[18:11:53] [Server thread/INFO]: <Armando> hay un agujero
+[18:11:53] [Server thread/INFO]: <vijote> ah bueno
+[18:11:55] [Server thread/INFO]: <Armando> con agua
+[18:11:55] [Server thread/INFO]: <vijote> ah no
+[18:11:57] [Server thread/INFO]: <vijote> ahora si que no
+[18:12:01] [Server thread/INFO]: <Armando> te presto algo bien rico
+[18:12:04] [Server thread/INFO]: <vijote> ramiro me puso vidrio en la muralla
+[18:12:14] [Server thread/INFO]: <Armando> veni mongolo
+[18:12:18] [Server thread/INFO]: <vijote> banca
+[18:12:18] [Server thread/INFO]: <Armando> te tengo que dar algo
+[18:12:19] [Server thread/INFO]: <vijote> alto viaje
+[18:12:20] [Server thread/INFO]: <Armando> antes de irme
+[18:12:22] [Server thread/INFO]: <Armando> te vas
+[18:12:25] [Server thread/INFO]: <Armando> a recontra exitar
+[18:12:27] [Server thread/INFO]: <vijote> banca
+[18:12:33] [Server thread/INFO]: <vijote> la concha
+[18:12:34] [Server thread/INFO]: <Armando> trea
+[18:12:36] [Server thread/INFO]: <Armando> mucha madera
+[18:12:39] [Server thread/INFO]: <vijote> quise poner tp en la consola y no tnego la consola jaj
+[18:12:39] [Server thread/INFO]: <Armando> para hacer una escalera
+[18:12:52] [Server thread/INFO]: <Armando> y si tenes que venir por arriba nomas xd
+[18:13:17] [Server thread/INFO]: <Armando> esta en la esquina de la muralla, un agujero con agua en el fondo
+[18:13:28] [Server thread/INFO]: <Armando> 59 -198
+[18:14:04] [Server thread/INFO]: <Armando> para hoy :v
+[18:14:11] [Server thread/INFO]: <vijote> no tengo pala jaj
+[18:14:20] [Server thread/INFO]: <Armando> hay banda de diamante
+[18:14:23] [Server thread/INFO]: <Armando> o te presto la mia
+[18:14:33] [Server thread/INFO]: <Armando> te muestro esto y me voy, asi ya sabes usarlo
+[18:14:56] [Server thread/INFO]: <vijote> aber gaston
+[18:15:00] [Server thread/INFO]: <vijote> donde chucha estas
+[18:15:09] [Server thread/INFO]: <Armando> x59 -198
+[18:15:14] [Server thread/INFO]: <Armando> x59 z-198
+[18:15:20] [Server thread/INFO]: <Armando> en la esquina interna de la muralla
+[18:15:23] [Server thread/INFO]: <Armando> hay un agujero
+[18:15:25] [Server thread/INFO]: <Armando> tirate
+[18:15:50] [Server thread/INFO]: Alfajorcito[/25.73.242.60:63633] logged in with entity id 7761 at (-1773.6486452394886, 66.0, -52.300000011920915)
+[18:15:50] [Server thread/INFO]: Alfajorcito joined the game
+[18:16:07] [Server thread/INFO]: <Armando> dale waso
+[18:16:08] [Server thread/INFO]: <Alfajorcito> ola muy buenas a todos GUAAAPISIMOS
+[18:16:26] [Server thread/INFO]: <Armando> te mamaste
+[18:16:28] [Server thread/INFO]: <vijote> XD
+[18:16:35] [Server thread/INFO]: <Armando> abrilo
+[18:16:37] [Server thread/INFO]: <Alfajorcito> nadie quiere venir a 1772 para traerme 1 pescado para los chitas?
+[18:16:40] [Server thread/INFO]: <vijote> KHE
+[18:16:51] [Server thread/INFO]: <vijote> :O
+[18:17:05] [Server thread/INFO]: <Armando> podes meter pijas ahi adentro
+[18:17:06] [Server thread/INFO]: <vijote> OSTRAS WILI
+[18:17:19] [Server thread/INFO]: <Armando> nv hermoso
+[18:17:22] [Server thread/INFO]: <Alfajorcito> para construir murallas
+[18:17:24] [Server thread/INFO]: <Alfajorcito> está 1 caño
+[18:17:32] [Server thread/INFO]: <vijote> nino vimo
+[18:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4696ms or 93 ticks behind
+[18:18:00] [Server thread/WARN]: Alfajorcito moved too quickly! 10.083822624926142,0.001335979112141672,1.9016069334829666
+[18:18:00] [Server thread/INFO]: <Armando> despues si te vas del sv dejalas en el cofre alado de los hornos
+[18:18:02] [Server thread/INFO]: <Armando> que tenog que seguir minando
+[18:18:22] [Server thread/INFO]: <Armando> pls
+[18:18:24] [Server thread/INFO]: <Armando> bai
+[18:18:25] [Server thread/INFO]: Armando lost connection: Disconnected
+[18:18:25] [Server thread/INFO]: Armando left the game
+[18:18:50] [Server thread/INFO]: <Alfajorcito> ENCONTRE PESCADO PA CHITA
+[18:19:03] [Server thread/INFO]: <MAURIJAJAJA> hice una cosita
+[18:19:07] [Server thread/INFO]: <MAURIJAJAJA> mando foto al grupo
+[18:19:25] [Server thread/INFO]: <vijote> jajajaja
+[18:19:34] [Server thread/INFO]: <vijote> ese simbolo nazi
+[18:19:38] [Server thread/INFO]: <Alfajorcito> x'D
+[18:19:40] [Server thread/INFO]: <Alfajorcito> spoiler
+[18:19:55] [Server thread/INFO]: <vijote> los spoiler no son malo
+[18:19:56] [Server thread/INFO]: <vijote> s
+[18:19:58] [Server thread/INFO]: <Alfajorcito> si son
+[18:20:05] [Server thread/INFO]: <vijote> sirven para q te prepares psicologicamente para lo que viene
+[18:20:16] [Server thread/INFO]: <vijote> y no te agarre un abc
+[18:20:26] [Server thread/INFO]: <Alfajorcito> :o
+[18:20:29] [Server thread/INFO]: <Alfajorcito> -_-
+[18:20:38] [Server thread/INFO]: <vijote> jajaja
+[18:20:43] [Server thread/INFO]: <vijote> todos mis parches de andesita y grava
+[18:20:45] [Server thread/INFO]: <vijote> 1 masa
+[18:20:51] [Server thread/INFO]: <Alfajorcito> para eso mauri
+[18:20:54] [Server thread/INFO]: <Alfajorcito> hiciste de river a las bacas
+[18:20:57] [Server thread/INFO]: <Alfajorcito> ovejas*
+[18:20:59] [Server thread/INFO]: <Alfajorcito> we bigote
+[18:21:04] [Server thread/INFO]: <Alfajorcito> si estaban lageando los pollos
+[18:21:09] [Server thread/INFO]: <Alfajorcito> no me podia mover en ese chunk nomas
+[18:21:13] [Server thread/INFO]: <Alfajorcito> hicimos la masacre del siglo
+[18:21:21] [Server thread/INFO]: <Alfajorcito> f3 a y pum
+[18:21:22] [Server thread/INFO]: <Alfajorcito> rip lag
+[18:21:40] [Server thread/INFO]: <vijote> d1
+[18:21:54] [Server thread/INFO]: <Alfajorcito> por eso hay tan pocos
+[18:22:17] [Server thread/INFO]: <vijote> que carajo ese palo largo de madera
+[18:22:23] [Server thread/INFO]: <Alfajorcito> el morado?
+[18:22:26] [Server thread/INFO]: <vijote> no
+[18:22:29] [Server thread/INFO]: <vijote> es uno de madera
+[18:22:30] [Server thread/INFO]: <vijote> :B
+[18:22:34] [Server thread/INFO]: <Alfajorcito> :V
+[18:22:42] [Server thread/INFO]: <Alfajorcito> no son las indicaciones de armando para el end?
+[18:22:46] [Server thread/INFO]: <vijote> no se
+[18:22:55] [Server thread/INFO]: <vijote> capaz si
+[18:23:00] [Server thread/INFO]: <Alfajorcito> x'D
+[18:24:15] [Server thread/INFO]: <vijote> we felipe
+[18:24:18] [Server thread/INFO]: <Alfajorcito> ol
+[18:24:19] [Server thread/INFO]: <Alfajorcito> a
+[18:24:20] [Server thread/INFO]: <vijote> llegue a tu pitito de tierra
+[18:24:24] [Server thread/INFO]: <vijote> re alto nico ya toy
+[18:24:32] [Server thread/INFO]: <Alfajorcito> q pitito de tierra? xd
+[18:24:38] [Server thread/INFO]: <vijote> noooooooooooooooooooooooooooooo
+[18:24:43] [Server thread/INFO]: <vijote> no puedo sacar la lluviaaaaaaaaaa
+[18:24:44] [Server thread/INFO]: <Alfajorcito> se mnurio rip
+[18:24:45] [Server thread/INFO]: <vijote> aaaaaaaaaaaaaaaaaaaaaaaaa
+[18:24:50] [Server thread/INFO]: <Alfajorcito> x'D
+[18:24:54] [Server thread/INFO]: <Alfajorcito> aaah ya se que pittito
+[18:25:00] [Server thread/INFO]: <vijote> we q paja
+[18:25:10] [Server thread/INFO]: <Alfajorcito> sipodes sacar
+[18:25:13] [Server thread/INFO]: <Alfajorcito> tenes q hacer un techo nomas
+[18:25:17] [Server thread/INFO]: <vijote> ok
+[18:26:01] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID a2c63ff6-5ded-49d2-ba56-64481fb8a72b
+[18:26:29] [Server thread/INFO]: <Alfajorcito> estaria bueno q llueva por chunks
+[18:26:34] [Server thread/INFO]: <Alfajorcito> asi no llueve todo elt eimpo en todos lados
+[18:26:45] [Server thread/INFO]: <Alfajorcito> y te haces una casa en el desierto y no llueva :D
+[18:27:50] [Server thread/INFO]: MAURIJAJAJA lost connection: Disconnected
+[18:27:50] [Server thread/INFO]: MAURIJAJAJA left the game
+[18:32:32] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[18:33:44] [Server thread/INFO]: <Alfajorcito> armando se excito con minar en 1 x 1
+[18:33:51] [Server thread/INFO]: <Alfajorcito> se cayo a la lava y dejo de minar en 1 x 1
+[18:33:51] [Server thread/INFO]: <vijote> jajajajja
+[18:33:58] [Server thread/INFO]: <Alfajorcito> se cayo a la lava
+[18:34:04] [Server thread/INFO]: <vijote> we
+[18:34:08] [Server thread/INFO]: <vijote> con cuanto habra caido
+[18:34:09] [Server thread/INFO]: <Alfajorcito> y agarro y hizo el commit nomas y puso de nuevo el server ocmo estaba
+[18:34:15] [Server thread/INFO]: <Alfajorcito> pq tenia TODO
+[18:34:26] [Server thread/INFO]: <Alfajorcito> la shulker los 2 totems y su armadura y picos
+[18:34:41] [Server thread/INFO]: <Alfajorcito> se ofendio con los totems
+[18:34:45] [Server thread/INFO]: <vijote> jajaja
+[18:34:47] [Server thread/INFO]: <vijote> le sirvieron
+[18:34:53] [Server thread/INFO]: <Alfajorcito> 1 vez lo uso
+[18:34:56] [Server thread/INFO]: <Alfajorcito> para testear
+[18:34:59] [Server thread/INFO]: <Alfajorcito> y le sirvio
+[18:35:03] [Server thread/INFO]: <Alfajorcito> de ahogarse en el tobogan de mauri
+[18:35:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[18:35:36] [Server thread/INFO]: <vijote> we me encanta ver los parches estos de grava y andesita
+[18:35:43] [Server thread/INFO]: <vijote> quisiera haberle puesto mas para q quede mejor
+[18:35:45] [Server thread/INFO]: <Alfajorcito> pq
+[18:35:51] [Server thread/INFO]: <Alfajorcito> pq parece mas natural o mas viejo?
+[18:36:12] [Server thread/INFO]: <vijote> no
+[18:36:17] [Server thread/INFO]: <vijote> pq tiene diferente patron nms
+[18:36:20] [Server thread/INFO]: <Alfajorcito> x'D
+[18:36:24] [Server thread/INFO]: <vijote> queda diferente
+[18:36:26] [Server thread/INFO]: <vijote> y queda mas surtido
+[18:36:29] [Server thread/INFO]: <vijote> como las bagley
+[18:36:30] [Server thread/INFO]: <Alfajorcito> siempre podes hacer un spawnear de creepers
+[18:36:38] [Server thread/INFO]: <Alfajorcito> y q arreglen eso x vos
+[18:36:40] [Server thread/INFO]: <vijote> wid
+[18:36:55] [Server thread/INFO]: <vijote> che pero para
+[18:37:12] [Server thread/INFO]: <vijote> el cofre este se puede romper con la mano o con un pico de piedra o con uno de diamante o como es el pedo
+[18:37:18] [Server thread/INFO]: <Alfajorcito> nose
+[18:37:19] [Server thread/INFO]: <Alfajorcito> no le pregunte
+[18:37:23] [Server thread/INFO]: <vijote> pq tengo el cofre rosa este pero tengo miedo de q cuando lo rompa se pierda todo
+[18:37:27] [Server thread/INFO]: <Alfajorcito> posta
+[18:38:11] [Server thread/INFO]: <Alfajorcito> con pico lo picas rapido
+[18:38:15] [Server thread/INFO]: <Alfajorcito> pero con la mano te lo da igual parece
+[18:38:23] [Server thread/INFO]: <vijote> ya pase tu pitito de arena
+[18:38:34] [Server thread/INFO]: <Alfajorcito> :o
+[18:38:36] [Server thread/INFO]: <vijote> le puedo meter mano nms entonces?
+[18:38:41] [Server thread/INFO]: <Alfajorcito> creo q si
+[18:39:00] [Server thread/INFO]: <Alfajorcito> se pueden teñir
+[18:39:01] [Server thread/INFO]: <Alfajorcito> lol
+[18:39:03] [Server thread/INFO]: <Alfajorcito> copado
+[18:39:05] [Server thread/INFO]: <vijote> d1
+[18:39:17] [Server thread/INFO]: <vijote> we
+[18:39:20] [Server thread/INFO]: <vijote> sabes lo q es
+[18:39:23] [Server thread/INFO]: <vijote> tener 1 cofre
+[18:39:26] [Server thread/INFO]: <vijote> con muchos cofres
+[18:39:29] [Server thread/INFO]: <Alfajorcito> no le podes mponer mas
+[18:39:31] [Server thread/INFO]: <vijote> sera q se puede
+[18:39:32] [Server thread/INFO]: <vijote> ah
+[18:39:35] [Server thread/INFO]: <Alfajorcito> cuando dijiste tener 1 cofre
+[18:39:38] [Server thread/INFO]: <Alfajorcito> ya sabia q pensaste eso xd
+[18:39:43] [Server thread/INFO]: <vijote> XD
+[18:39:45] [Server thread/INFO]: <Alfajorcito> pq yo tambien chismosee eso
+[18:39:55] [Server thread/INFO]: <vijote> hubiera estado copado jajaja
+[18:39:58] [Server thread/INFO]: <vijote> pero capaz lageaba
+[18:40:00] [Server thread/INFO]: <Alfajorcito> la cosa es q te mudas en 1 viaje
+[18:40:15] [Server thread/INFO]: <Alfajorcito> llevas toda tu casa en pedazitos
+[18:40:18] [Server thread/INFO]: <Alfajorcito> y la armas en otro lado
+[18:40:35] [Server thread/INFO]: <vijote> sale esa siestaki
+[18:40:37] [Server thread/INFO]: <vijote> o nqvergas
+[18:40:40] [Server thread/INFO]: <Alfajorcito> no tengo ni lana
+[18:40:43] [Server thread/INFO]: <Alfajorcito> ni hilo
+[18:40:48] [Server thread/INFO]: <Alfajorcito> ni mesa de crafteo
+[18:40:52] [Server thread/INFO]: <vijote> pero estas en la muralla?
+[18:40:59] [Server thread/INFO]: <Alfajorcito> estoy en -1600
+[18:41:02] [Server thread/INFO]: <vijote> biem
+[18:41:05] [Server thread/INFO]: <Alfajorcito> si queres salgo
+[18:41:05] [Server thread/INFO]: <Alfajorcito> dormis
+[18:41:06] [Server thread/INFO]: <Alfajorcito> y entro
+[18:41:07] [Server thread/INFO]: vijote has made the advancement [Sweet Dreams]
+[18:41:09] [Server thread/INFO]: <vijote> tok
+[18:41:10] [Server thread/INFO]: <vijote> tok
+[18:41:11] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[18:41:11] [Server thread/INFO]: Alfajorcito left the game
+[18:41:33] [Server thread/INFO]: Alfajorcito[/25.73.242.60:63757] logged in with entity id 26010 at (-1679.6447647151645, 11.0, 257.49824725657504)
+[18:41:33] [Server thread/INFO]: Alfajorcito joined the game
+[18:41:38] [Server thread/INFO]: <Alfajorcito> es de dia?
+[18:41:40] [Server thread/INFO]: <vijote> c
+[18:42:04] [Server thread/INFO]: <Alfajorcito> se ofende armando pq no agarro el hierro
+[18:42:09] [Server thread/INFO]: <Alfajorcito> ni el oro cuando me voy a minar
+[18:42:14] [Server thread/INFO]: <vijote> xdd
+[18:42:23] [Server thread/INFO]: <vijote> pq no agarras el yerro aunque sea
+[18:42:28] [Server thread/INFO]: <vijote> q eso si sirve
+[18:42:30] [Server thread/INFO]: <Alfajorcito> pq tenemos demasiado
+[18:42:46] [Server thread/INFO]: <Alfajorcito> y no puedo agarrar andesita
+[18:43:55] [Server thread/INFO]: <vijote> posta
+[18:43:58] [Server thread/INFO]: <vijote> la andesita sirve
+[18:44:05] [Server thread/INFO]: <Alfajorcito> para tirar a la lava
+[18:44:09] [Server thread/INFO]: <vijote> alto animal print me estoy mandando en la muralla con eso
+[18:45:58] [Server thread/INFO]: <Alfajorcito> AHRE
+[18:46:11] [Server thread/INFO]: <Alfajorcito> SI LE PONES COBBLESTONE A LA DIORITA
+[18:46:14] [Server thread/INFO]: <Alfajorcito> HACES ANDESITA XD
+[18:46:25] [Server thread/INFO]: <vijote> woooou
+[18:46:27] [Server thread/INFO]: <Alfajorcito> y si le pones cuarzo haces granito x'D
+[18:46:37] [Server thread/INFO]: <vijote> :o
+[18:46:59] [Server thread/INFO]: <Alfajorcito> la diorita es la mas basica
+[18:47:06] [Server thread/INFO]: <Alfajorcito> pq no podes volver del granito a ninguna de las otras 2
+[18:47:10] [Server thread/INFO]: <Alfajorcito> ni de la andesita a ninguna de las otras 2
+[18:47:45] [Server thread/INFO]: <Alfajorcito> te llevo mucha andesita entonces
+[18:47:58] [Server thread/INFO]: <vijote> dale
+[18:52:18] [Server thread/INFO]: <vijote> creo q con 10 o 12 niveles mas
+[18:52:21] [Server thread/INFO]: <vijote> ya termino todo
+[18:52:37] [Server thread/INFO]: <Alfajorcito> pensar en elt echo nomas me da paja
+[18:53:01] [Server thread/INFO]: <vijote> hay q ver de q lo hacemos
+[18:53:05] [Server thread/INFO]: <vijote> capaz no lo haga de vidrio
+[18:53:14] [Server thread/INFO]: <Alfajorcito> la cosa es la luz solar
+[18:53:26] [Server thread/INFO]: <Alfajorcito> esmeralda xd
+[18:55:11] [Server thread/INFO]: <vijote> d1
+[18:55:16] [Server thread/INFO]: <Alfajorcito> wee
+[18:55:19] [Server thread/INFO]: <vijote> y si lo unico es la luz
+[18:55:20] [Server thread/INFO]: <Alfajorcito> entcontre 3 veces esmeralda
+[18:55:22] [Server thread/INFO]: <Alfajorcito> en la misma rabin
+[18:55:34] [Server thread/INFO]: <vijote> estas por traficar con los aldeanos
+[18:55:36] [Server thread/INFO]: <Alfajorcito> lastima q no sirva de un pingo
+[18:55:44] [Server thread/INFO]: <vijote> x'V
+[18:56:20] [Server thread/INFO]: <vijote> we
+[18:56:21] [Server thread/INFO]: <Alfajorcito> llevo cacao
+[18:56:24] [Server thread/INFO]: <Alfajorcito> ekisdee
+[18:56:24] [Server thread/INFO]: <Alfajorcito> mas
+[18:56:27] [Server thread/INFO]: <vijote> sigue clonando el sv
+[18:56:29] [Server thread/INFO]: <vijote> ajjajaja
+[18:56:35] [Server thread/INFO]: <Alfajorcito> WTF
+[18:56:39] [Server thread/INFO]: <Alfajorcito> PEZ DE PLATA
+[18:56:43] [Server thread/INFO]: <vijote> hace como 1 hora q esta ahi
+[18:56:45] [Server thread/INFO]: <Alfajorcito> asi o.o
+[18:56:45] [Server thread/INFO]: <vijote> rico jaja
+[18:56:54] [Server thread/INFO]: <vijote> we eso ya casi ni se ve
+[18:57:19] [Server thread/INFO]: <Alfajorcito> lol
+[18:57:21] [Server thread/INFO]: <Alfajorcito> spawnean en clima de montaña
+[18:57:23] [Server thread/INFO]: <Alfajorcito> normalmente
+[18:57:27] [Server thread/INFO]: <Alfajorcito> pense q solamente eran de dungeons
+[18:58:53] [Server thread/INFO]: <vijote> lol
+[18:59:19] [Server thread/INFO]: <Alfajorcito> LOL
+[18:59:21] [Server thread/INFO]: <Alfajorcito> mas esmeralda
+[18:59:26] [Server thread/INFO]: <Alfajorcito> el 5to bloque separado
+[18:59:30] [Server thread/INFO]: <Alfajorcito> me estoy traumando
+[19:05:03] [Server thread/INFO]: Alfajorcito has made the advancement [Not Today, Thank You]
+[19:05:07] [Server thread/INFO]: <vijote> lel
+[19:05:11] [Server thread/INFO]: <Alfajorcito> ahre
+[19:05:26] [Server thread/INFO]: <vijote> we
+[19:05:29] [Server thread/INFO]: <vijote> con todo lo q puse
+[19:05:40] [Server thread/INFO]: <vijote> ni asi llegue al piso de la ultima isla de mauri
+[19:06:08] [Server thread/INFO]: <Alfajorcito> llevo 50 diamantes
+[19:06:11] [Server thread/INFO]: <Alfajorcito> y 20 esmeraldas
+[19:06:12] [Server thread/INFO]: <vijote> wid
+[19:06:13] [Server thread/INFO]: <Alfajorcito> me siento gsu
+[19:07:36] [Server thread/INFO]: <vijote> 1 ender
+[19:07:45] [Server thread/INFO]: <Alfajorcito> rico
+[19:08:04] [Server thread/INFO]: <vijote> lo deje emperrado
+[19:08:06] [Server thread/INFO]: <vijote> xd
+[19:08:15] [Server thread/INFO]: <vijote> lol
+[19:08:17] [Server thread/INFO]: <vijote> c va y viene
+[19:12:13] [Server thread/INFO]: <vijote> jajajaja
+[19:12:15] [Server thread/INFO]: <vijote> todo el arbol pelado
+[19:12:22] [Server thread/INFO]: <vijote> el ender me sigue
+[19:12:24] [Server thread/INFO]: <Alfajorcito> con lana
+[19:12:25] [Server thread/INFO]: <vijote> pero sin emperrarse
+[19:12:30] [Server thread/INFO]: <Alfajorcito> ekisde
+[19:12:31] [Server thread/INFO]: <Alfajorcito> si
+[19:12:34] [Server thread/INFO]: <vijote> le guste nms
+[19:12:35] [Server thread/INFO]: <Alfajorcito> eso me hacia la otra vez xd
+[19:12:44] [Server thread/INFO]: <vijote> soy sexi
+[19:12:45] [Server thread/INFO]: <vijote> le guste
+[19:12:50] [Server thread/INFO]: <Alfajorcito> :'3
+[19:13:03] [Server thread/INFO]: <vijote> 1 lagaso tengo
+[19:13:06] [Server thread/INFO]: <Alfajorcito> aa
+[19:13:08] [Server thread/INFO]: <Alfajorcito> yo no
+[19:13:12] [Server thread/INFO]: <Alfajorcito> o es tu internet o esos chunks
+[19:13:13] [Server thread/INFO]: <vijote> yo tampoco
+[19:13:16] [Server thread/INFO]: <Alfajorcito> LOL
+[19:13:17] [Server thread/INFO]: <vijote> pero agarro lento
+[19:13:21] [Server thread/INFO]: <vijote> las cosa
+[19:13:23] [Server thread/INFO]: <vijote> s
+[19:13:32] [Server thread/INFO]: <Alfajorcito> pero pq tu pj es pajero
+[19:13:36] [Server thread/INFO]: <Alfajorcito> y no quiere agacharse
+[19:15:39] [Server thread/INFO]: <vijote> we
+[19:15:43] [Server thread/INFO]: <vijote> se metio en los cultivos
+[19:15:47] [Server thread/INFO]: <vijote> y rompio uno
+[19:15:51] [Server thread/INFO]: <Alfajorcito> :o
+[19:15:54] [Server thread/INFO]: <Alfajorcito> lol
+[19:15:55] [Server thread/INFO]: <Alfajorcito> spawner
+[19:15:56] [Server thread/INFO]: <vijote> yo asi lo mato nomas
+[19:17:52] [Server thread/INFO]: <vijote> we
+[19:17:54] [Server thread/INFO]: <vijote> sigue clonando
+[19:17:59] [Server thread/INFO]: <vijote> 130mb
+[19:18:08] [Server thread/INFO]: <vijote> tanto nico va pesa
+[19:26:42] [Server thread/INFO]: <Alfajorcito> ya buelbo
+[19:29:16] [Server thread/INFO]: <Alfajorcito> oye no
+[19:29:18] [Server thread/INFO]: <Alfajorcito> no ahora por favor
+[19:29:20] [Server thread/INFO]: <Alfajorcito> otra minad e herobrine
+[19:29:53] [Server thread/INFO]: <vijote> ke
+[19:29:55] [Server thread/INFO]: <Alfajorcito> weed
+[19:29:56] [Server thread/INFO]: <Alfajorcito> es grande
+[19:30:14] [Server thread/INFO]: <vijote> a los chanchos
+[19:30:17] [Server thread/INFO]: <vijote> les gustan las papas?
+[19:30:20] [Server thread/INFO]: <Alfajorcito> no
+[19:30:22] [Server thread/INFO]: <vijote> ah no
+[19:30:23] [Server thread/INFO]: <vijote> mira este
+[19:30:25] [Server thread/INFO]: <vijote> esta re loco
+[19:30:28] [Server thread/INFO]: <Alfajorcito> xdd
+[19:30:30] [Server thread/INFO]: <Alfajorcito> capaz q si
+[19:30:36] [Server thread/INFO]: <vijote> ya se la mandó
+[19:30:43] [Server thread/INFO]: <Alfajorcito> ekisdee
+[19:30:49] [Server thread/INFO]: <vijote> equisdere
+[19:30:56] [Server thread/INFO]: <Alfajorcito> x'D
+[19:31:23] [Server thread/INFO]: <vijote> we si
+[19:31:25] [Server thread/INFO]: <vijote> les re prende
+[19:33:15] [Server thread/INFO]: <vijote> q rico lagaso tengo
+[19:38:50] [Server thread/INFO]: <Alfajorcito> me aburrio este erobrine
+[19:41:43] [Server thread/INFO]: <vijote> silk touch es toque de sida?
+[19:41:46] [Server thread/INFO]: <Alfajorcito> c
+[19:41:48] [Server thread/INFO]: <vijote> okis
+[19:42:14] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[19:42:56] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[19:49:40] [Server thread/INFO]: <Alfajorcito> tdv estoy a 900 bloques
+[19:49:43] [Server thread/INFO]: <Alfajorcito> q p a j a
+[19:51:35] [Server thread/INFO]: <vijote> bueno
+[19:51:37] [Server thread/INFO]: <vijote> me aburri
+[19:51:37] [Server thread/INFO]: <vijote> jaj
+[19:51:38] [Server thread/INFO]: vijote lost connection: Disconnected
+[19:51:38] [Server thread/INFO]: vijote left the game
+[19:54:42] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[19:54:42] [Server thread/INFO]: Alfajorcito left the game
+[20:08:35] [Server thread/INFO]: Alfajorcito[/25.73.242.60:64179] logged in with entity id 97995 at (-733.6846115254461, 11.0, 95.20758688083671)
+[20:08:35] [Server thread/INFO]: Alfajorcito joined the game
+[20:31:08] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[20:31:32] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[20:31:32] [Server thread/INFO]: Alfajorcito left the game
+[20:33:27] [Server thread/INFO]: Alfajorcito[/25.73.242.60:64444] logged in with entity id 108801 at (114.26217073340788, 63.0, -150.99669456071234)
+[20:33:27] [Server thread/INFO]: Alfajorcito joined the game
+[20:33:27] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[20:39:03] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[20:42:06] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[20:43:06] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[20:43:36] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[20:45:48] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[20:49:24] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[20:50:49] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[20:51:01] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[20:51:47] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4a9ff55d-1fbd-4939-9422-5952d282927e
+[21:02:40] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[21:02:45] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[21:03:05] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[21:03:28] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[21:03:34] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[21:03:37] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b2e34a60-4770-4157-a5bb-2328da1ef4af
+[21:06:42] [Server thread/INFO]: Alfajorcito lost connection: Disconnected
+[21:06:42] [Server thread/INFO]: Alfajorcito left the game
+[21:09:22] [Server thread/INFO]: Armando[/127.0.0.1:49426] logged in with entity id 130291 at (59.50542578295079, 47.0, -198.45812986374392)
+[21:09:22] [Server thread/INFO]: Armando joined the game
+[21:19:35] [Server thread/INFO]: Made Armando a server operator
+[21:19:46] [Server thread/INFO]: [Armando: Set own game mode to Creative Mode]
+[21:21:56] [Server thread/INFO]: [Armando: Set own game mode to Survival Mode]
+[21:22:27] [Server thread/INFO]: [Armando: Set own game mode to Creative Mode]
+[21:26:38] [Server thread/INFO]: [Armando: Set own game mode to Survival Mode]
+[21:26:46] [Server thread/INFO]: [Armando: Set own game mode to Creative Mode]
+[21:26:49] [Server thread/INFO]: [Armando: Set own game mode to Survival Mode]
+[21:26:59] [Server thread/INFO]: Made Armando no longer a server operator
+[21:27:02] [Server thread/INFO]: Armando lost connection: Disconnected
+[21:27:02] [Server thread/INFO]: Armando left the game
